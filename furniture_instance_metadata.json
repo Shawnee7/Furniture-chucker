@@ -1,0 +1,5956 @@
+[
+  {
+    "ELID": 2281780,
+    "Point": {
+      "X": -64091.6631,
+      "Y": 21317.5447,
+      "Z": 61785.0
+    },
+    "Rotation": 0.0,
+    "Type": {
+      "family_type": " Existing Joinery_Materials Library 04",
+      "family": " Existing Joinery_Materials Library 04"
+    }
+  },
+  {
+    "ELID": 2435545,
+    "Point": {
+      "X": -3506.0423,
+      "Y": -526.812,
+      "Z": 61785.0
+    },
+    "Rotation": 90.0,
+    "Type": {
+      "family_type": " NC5",
+      "family": " New Furniture_Project Room Chairs_NC5"
+    }
+  },
+  {
+    "ELID": 2435546,
+    "Point": {
+      "X": -3506.0423,
+      "Y": -1306.812,
+      "Z": 61785.0
+    },
+    "Rotation": 90.0,
+    "Type": {
+      "family_type": " NC5",
+      "family": " New Furniture_Project Room Chairs_NC5"
+    }
+  },
+  {
+    "ELID": 2435547,
+    "Point": {
+      "X": -3506.0423,
+      "Y": -2126.812,
+      "Z": 61785.0
+    },
+    "Rotation": 90.0,
+    "Type": {
+      "family_type": " NC5",
+      "family": " New Furniture_Project Room Chairs_NC5"
+    }
+  },
+  {
+    "ELID": 2435548,
+    "Point": {
+      "X": -1535.1463,
+      "Y": -526.812,
+      "Z": 61785.0
+    },
+    "Rotation": 90.0,
+    "Type": {
+      "family_type": " NC5",
+      "family": " New Furniture_Project Room Chairs_NC5"
+    }
+  },
+  {
+    "ELID": 2435549,
+    "Point": {
+      "X": -1535.1463,
+      "Y": -1306.812,
+      "Z": 61785.0
+    },
+    "Rotation": 90.0,
+    "Type": {
+      "family_type": " NC5",
+      "family": " New Furniture_Project Room Chairs_NC5"
+    }
+  },
+  {
+    "ELID": 2435550,
+    "Point": {
+      "X": -1535.1463,
+      "Y": -2126.812,
+      "Z": 61785.0
+    },
+    "Rotation": 90.0,
+    "Type": {
+      "family_type": " NC5",
+      "family": " New Furniture_Project Room Chairs_NC5"
+    }
+  },
+  {
+    "ELID": 2435555,
+    "Point": {
+      "X": -2525.9949,
+      "Y": -1275.8406,
+      "Z": 61785.0
+    },
+    "Rotation": 1.59027734073E-14,
+    "Type": {
+      "family_type": " NT2",
+      "family": " New Furniture_Meeting Table Project Room South_NT2"
+    }
+  },
+  {
+    "ELID": 2437604,
+    "Point": {
+      "X": -3803.5321,
+      "Y": 54651.5731,
+      "Z": 61785.0
+    },
+    "Rotation": 90.0,
+    "Type": {
+      "family_type": " NC5",
+      "family": " New Furniture_Project Room Chairs_NC5"
+    }
+  },
+  {
+    "ELID": 2437605,
+    "Point": {
+      "X": -3803.5321,
+      "Y": 53871.5731,
+      "Z": 61785.0
+    },
+    "Rotation": 90.0,
+    "Type": {
+      "family_type": " NC5",
+      "family": " New Furniture_Project Room Chairs_NC5"
+    }
+  },
+  {
+    "ELID": 2437613,
+    "Point": {
+      "X": -2795.5461,
+      "Y": 53562.3314,
+      "Z": 61785.0
+    },
+    "Rotation": 0.0,
+    "Type": {
+      "family_type": " NT3",
+      "family": " New Furniture_Meeting Table Project Room North_NT3"
+    }
+  },
+  {
+    "ELID": 2437617,
+    "Point": {
+      "X": -3803.5321,
+      "Y": 52449.7204,
+      "Z": 61785.0
+    },
+    "Rotation": 270.0,
+    "Type": {
+      "family_type": " NC5",
+      "family": " New Furniture_Project Room Chairs_NC5"
+    }
+  },
+  {
+    "ELID": 2437618,
+    "Point": {
+      "X": -3803.5321,
+      "Y": 53229.7204,
+      "Z": 61785.0
+    },
+    "Rotation": 270.0,
+    "Type": {
+      "family_type": " NC5",
+      "family": " New Furniture_Project Room Chairs_NC5"
+    }
+  },
+  {
+    "ELID": 3513590,
+    "Point": {
+      "X": -2445.5459,
+      "Y": 51900.3134,
+      "Z": 61785.0
+    },
+    "Rotation": 360.0,
+    "Type": {
+      "family_type": " NC5",
+      "family": " New Furniture_Project Room Chairs_NC5"
+    }
+  },
+  {
+    "ELID": 3513591,
+    "Point": {
+      "X": -3145.5461,
+      "Y": 51900.3134,
+      "Z": 61785.0
+    },
+    "Rotation": 360.0,
+    "Type": {
+      "family_type": " NC5",
+      "family": " New Furniture_Project Room Chairs_NC5"
+    }
+  },
+  {
+    "ELID": 3513594,
+    "Point": {
+      "X": -3145.5461,
+      "Y": 55224.3494,
+      "Z": 61785.0
+    },
+    "Rotation": 5.51499700287E-13,
+    "Type": {
+      "family_type": " NC5",
+      "family": " New Furniture_Project Room Chairs_NC5"
+    }
+  },
+  {
+    "ELID": 3513595,
+    "Point": {
+      "X": -1787.56,
+      "Y": 54651.5731,
+      "Z": 61785.0
+    },
+    "Rotation": 90.0,
+    "Type": {
+      "family_type": " NC5",
+      "family": " New Furniture_Project Room Chairs_NC5"
+    }
+  },
+  {
+    "ELID": 3513596,
+    "Point": {
+      "X": -1787.56,
+      "Y": 53871.5731,
+      "Z": 61785.0
+    },
+    "Rotation": 90.0,
+    "Type": {
+      "family_type": " NC5",
+      "family": " New Furniture_Project Room Chairs_NC5"
+    }
+  },
+  {
+    "ELID": 3513597,
+    "Point": {
+      "X": -1787.56,
+      "Y": 52449.7204,
+      "Z": 61785.0
+    },
+    "Rotation": 270.0,
+    "Type": {
+      "family_type": " NC5",
+      "family": " New Furniture_Project Room Chairs_NC5"
+    }
+  },
+  {
+    "ELID": 3513598,
+    "Point": {
+      "X": -1787.56,
+      "Y": 53229.7204,
+      "Z": 61785.0
+    },
+    "Rotation": 270.0,
+    "Type": {
+      "family_type": " NC5",
+      "family": " New Furniture_Project Room Chairs_NC5"
+    }
+  },
+  {
+    "ELID": 3542314,
+    "Point": {
+      "X": -42718.9392,
+      "Y": 44599.8774,
+      "Z": 61785.0
+    },
+    "Rotation": 0.0,
+    "Type": {
+      "family_type": " CHA-013",
+      "family": " Furniture_CHA-013_Stool Breakout High"
+    }
+  },
+  {
+    "ELID": 3542324,
+    "Point": {
+      "X": -42158.9392,
+      "Y": 44599.8774,
+      "Z": 61785.0
+    },
+    "Rotation": 0.0,
+    "Type": {
+      "family_type": " CHA-013",
+      "family": " Furniture_CHA-013_Stool Breakout High"
+    }
+  },
+  {
+    "ELID": 3542334,
+    "Point": {
+      "X": -41360.1727,
+      "Y": 44644.2858,
+      "Z": 61785.0
+    },
+    "Rotation": 0.0,
+    "Type": {
+      "family_type": " CHA-013",
+      "family": " Furniture_CHA-013_Stool Breakout High"
+    }
+  },
+  {
+    "ELID": 3542342,
+    "Point": {
+      "X": -40676.494,
+      "Y": 44798.1334,
+      "Z": 61785.0
+    },
+    "Rotation": 0.0,
+    "Type": {
+      "family_type": " CHA-013",
+      "family": " Furniture_CHA-013_Stool Breakout High"
+    }
+  },
+  {
+    "ELID": 3542352,
+    "Point": {
+      "X": -39879.6766,
+      "Y": 44673.1334,
+      "Z": 61785.0
+    },
+    "Rotation": 0.0,
+    "Type": {
+      "family_type": " CHA-013",
+      "family": " Furniture_CHA-013_Stool Breakout High"
+    }
+  },
+  {
+    "ELID": 3542360,
+    "Point": {
+      "X": -39087.2307,
+      "Y": 44798.1334,
+      "Z": 61785.0
+    },
+    "Rotation": 0.0,
+    "Type": {
+      "family_type": " CHA-013",
+      "family": " Furniture_CHA-013_Stool Breakout High"
+    }
+  },
+  {
+    "ELID": 3542368,
+    "Point": {
+      "X": -38347.2307,
+      "Y": 44798.1334,
+      "Z": 61785.0
+    },
+    "Rotation": 0.0,
+    "Type": {
+      "family_type": " CHA-013",
+      "family": " Furniture_CHA-013_Stool Breakout High"
+    }
+  },
+  {
+    "ELID": 3542378,
+    "Point": {
+      "X": -37647.7692,
+      "Y": 43298.1334,
+      "Z": 61785.0
+    },
+    "Rotation": 0.0,
+    "Type": {
+      "family_type": " CHA-013",
+      "family": " Furniture_CHA-013_Stool Breakout High"
+    }
+  },
+  {
+    "ELID": 3542386,
+    "Point": {
+      "X": -38356.6794,
+      "Y": 43173.1334,
+      "Z": 61785.0
+    },
+    "Rotation": 0.0,
+    "Type": {
+      "family_type": " CHA-013",
+      "family": " Furniture_CHA-013_Stool Breakout High"
+    }
+  },
+  {
+    "ELID": 3542394,
+    "Point": {
+      "X": -39213.4069,
+      "Y": 43248.0874,
+      "Z": 61785.0
+    },
+    "Rotation": 0.0,
+    "Type": {
+      "family_type": " CHA-013",
+      "family": " Furniture_CHA-013_Stool Breakout High"
+    }
+  },
+  {
+    "ELID": 3542402,
+    "Point": {
+      "X": -40072.2995,
+      "Y": 43001.8039,
+      "Z": 61785.0
+    },
+    "Rotation": 0.0,
+    "Type": {
+      "family_type": " CHA-013",
+      "family": " Furniture_CHA-013_Stool Breakout High"
+    }
+  },
+  {
+    "ELID": 3542410,
+    "Point": {
+      "X": -40848.2994,
+      "Y": 43173.1334,
+      "Z": 61785.0
+    },
+    "Rotation": 0.0,
+    "Type": {
+      "family_type": " CHA-013",
+      "family": " Furniture_CHA-013_Stool Breakout High"
+    }
+  },
+  {
+    "ELID": 3542418,
+    "Point": {
+      "X": -41568.2994,
+      "Y": 43173.1334,
+      "Z": 61785.0
+    },
+    "Rotation": 0.0,
+    "Type": {
+      "family_type": " CHA-013",
+      "family": " Furniture_CHA-013_Stool Breakout High"
+    }
+  },
+  {
+    "ELID": 3542426,
+    "Point": {
+      "X": -42150.0155,
+      "Y": 43070.5612,
+      "Z": 61785.0
+    },
+    "Rotation": 0.0,
+    "Type": {
+      "family_type": " CHA-013",
+      "family": " Furniture_CHA-013_Stool Breakout High"
+    }
+  },
+  {
+    "ELID": 3551053,
+    "Point": {
+      "X": -38489.4471,
+      "Y": 40952.8757,
+      "Z": 61797.0
+    },
+    "Rotation": 270.0,
+    "Type": {
+      "family_type": " ZENITH TABLE_ROUND_800mm",
+      "family": " Table_Round_Zenith_Multi Dia_FUR"
+    }
+  },
+  {
+    "ELID": 3551056,
+    "Point": {
+      "X": -38190.9524,
+      "Y": 41327.8757,
+      "Z": 61785.0
+    },
+    "Rotation": 0.0,
+    "Type": {
+      "family_type": " Natural",
+      "family": " Stool_Aalto_FUR"
+    }
+  },
+  {
+    "ELID": 3713567,
+    "Point": {
+      "X": -35056.7922,
+      "Y": 40684.9054,
+      "Z": 61797.0
+    },
+    "Rotation": 90.0,
+    "Type": {
+      "family_type": " ZENITH TABLE_ROUND_800mm",
+      "family": " Table_Round_Zenith_Multi Dia_FUR"
+    }
+  },
+  {
+    "ELID": 3713570,
+    "Point": {
+      "X": -34604.4944,
+      "Y": 40817.2848,
+      "Z": 61785.0
+    },
+    "Rotation": 180.0,
+    "Type": {
+      "family_type": " Natural",
+      "family": " Stool_Aalto_FUR"
+    }
+  },
+  {
+    "ELID": 3713886,
+    "Point": {
+      "X": -43205.101,
+      "Y": 37933.8564,
+      "Z": 61797.0
+    },
+    "Rotation": 53.2260295379,
+    "Type": {
+      "family_type": " ZENITH TABLE_ROUND_800mm",
+      "family": " Table_Round_Zenith_Multi Dia_FUR"
+    }
+  },
+  {
+    "ELID": 3713888,
+    "Point": {
+      "X": -42763.5587,
+      "Y": 37769.1203,
+      "Z": 61785.0
+    },
+    "Rotation": 143.226029538,
+    "Type": {
+      "family_type": " Natural",
+      "family": " Stool_Aalto_FUR"
+    }
+  },
+  {
+    "ELID": 3713959,
+    "Point": {
+      "X": -43544.3735,
+      "Y": 39829.6259,
+      "Z": 61797.0
+    },
+    "Rotation": 90.0,
+    "Type": {
+      "family_type": " ZENITH TABLE_ROUND_800mm",
+      "family": " Table_Round_Zenith_Multi Dia_FUR"
+    }
+  },
+  {
+    "ELID": 3713961,
+    "Point": {
+      "X": -43953.8244,
+      "Y": 40093.5147,
+      "Z": 61785.0
+    },
+    "Rotation": 180.0,
+    "Type": {
+      "family_type": " Natural",
+      "family": " Stool_Aalto_FUR"
+    }
+  },
+  {
+    "ELID": 3713962,
+    "Point": {
+      "X": -43132.1804,
+      "Y": 40268.1605,
+      "Z": 61785.0
+    },
+    "Rotation": 180.0,
+    "Type": {
+      "family_type": " Natural",
+      "family": " Stool_Aalto_FUR"
+    }
+  },
+  {
+    "ELID": 3713966,
+    "Point": {
+      "X": -43511.3215,
+      "Y": 37642.1438,
+      "Z": 61785.0
+    },
+    "Rotation": 4.0,
+    "Type": {
+      "family_type": " Natural",
+      "family": " Stool_Aalto_FUR"
+    }
+  },
+  {
+    "ELID": 3724529,
+    "Point": {
+      "X": -2315.5443,
+      "Y": -44.2394,
+      "Z": 61785.0
+    },
+    "Rotation": 0.0,
+    "Type": {
+      "family_type": " NC5",
+      "family": " New Furniture_Project Room Chairs_NC5"
+    }
+  },
+  {
+    "ELID": 3724530,
+    "Point": {
+      "X": -2235.5443,
+      "Y": -2552.9692,
+      "Z": 61785.0
+    },
+    "Rotation": 360.0,
+    "Type": {
+      "family_type": " NC5",
+      "family": " New Furniture_Project Room Chairs_NC5"
+    }
+  },
+  {
+    "ELID": 3725038,
+    "Point": {
+      "X": -11114.5837,
+      "Y": 3036.0376,
+      "Z": 61797.0
+    },
+    "Rotation": 180.0,
+    "Type": {
+      "family_type": " EC15",
+      "family": " Existing Furniture_Hug Surround_EC15"
+    }
+  },
+  {
+    "ELID": 3725039,
+    "Point": {
+      "X": -12794.2869,
+      "Y": 610.9065,
+      "Z": 61797.0
+    },
+    "Rotation": 90.0,
+    "Type": {
+      "family_type": " EC14",
+      "family": " Existing Furniture_Vitra Cork Stool_EC14"
+    }
+  },
+  {
+    "ELID": 3725040,
+    "Point": {
+      "X": -12326.204,
+      "Y": 1510.8796,
+      "Z": 61797.0
+    },
+    "Rotation": 90.0,
+    "Type": {
+      "family_type": " EC14",
+      "family": " Existing Furniture_Vitra Cork Stool_EC14"
+    }
+  },
+  {
+    "ELID": 3725042,
+    "Point": {
+      "X": -10527.0191,
+      "Y": 562.312,
+      "Z": 61797.0
+    },
+    "Rotation": 90.0,
+    "Type": {
+      "family_type": " ET9",
+      "family": " Existing Furniture_Alvar Alto Coffee Table 84_ET9"
+    }
+  },
+  {
+    "ELID": 3725043,
+    "Point": {
+      "X": -11114.5837,
+      "Y": 2381.0376,
+      "Z": 61797.0
+    },
+    "Rotation": 180.0,
+    "Type": {
+      "family_type": " EC16",
+      "family": " Existing Furniture_Hug 2 Seat Sofa_EC16"
+    }
+  },
+  {
+    "ELID": 4128947,
+    "Point": {
+      "X": -39871.0038,
+      "Y": 22233.8121,
+      "Z": 61785.0
+    },
+    "Rotation": 0.0,
+    "Type": {
+      "family_type": " EC2",
+      "family": " Existing Furniture_Vitra Aluminium Group Chair_EC2"
+    }
+  },
+  {
+    "ELID": 4128949,
+    "Point": {
+      "X": -38262.2503,
+      "Y": 22235.0479,
+      "Z": 61785.0
+    },
+    "Rotation": 0.0,
+    "Type": {
+      "family_type": " EC2",
+      "family": " Existing Furniture_Vitra Aluminium Group Chair_EC2"
+    }
+  },
+  {
+    "ELID": 4128950,
+    "Point": {
+      "X": -37541.0038,
+      "Y": 22233.843,
+      "Z": 61785.0
+    },
+    "Rotation": 0.0,
+    "Type": {
+      "family_type": " EC2",
+      "family": " Existing Furniture_Vitra Aluminium Group Chair_EC2"
+    }
+  },
+  {
+    "ELID": 4128951,
+    "Point": {
+      "X": -36762.2503,
+      "Y": 22235.0686,
+      "Z": 61785.0
+    },
+    "Rotation": 0.0,
+    "Type": {
+      "family_type": " EC2",
+      "family": " Existing Furniture_Vitra Aluminium Group Chair_EC2"
+    }
+  },
+  {
+    "ELID": 4129052,
+    "Point": {
+      "X": -39154.5765,
+      "Y": 22233.837,
+      "Z": 61785.0
+    },
+    "Rotation": 0.0,
+    "Type": {
+      "family_type": " EC2",
+      "family": " Existing Furniture_Vitra Aluminium Group Chair_EC2"
+    }
+  },
+  {
+    "ELID": 4329355,
+    "Point": {
+      "X": -2895.5443,
+      "Y": -44.2394,
+      "Z": 61785.0
+    },
+    "Rotation": 0.0,
+    "Type": {
+      "family_type": " NC5",
+      "family": " New Furniture_Project Room Chairs_NC5"
+    }
+  },
+  {
+    "ELID": 4329356,
+    "Point": {
+      "X": -2815.5443,
+      "Y": -2552.9692,
+      "Z": 61785.0
+    },
+    "Rotation": 360.0,
+    "Type": {
+      "family_type": " NC5",
+      "family": " New Furniture_Project Room Chairs_NC5"
+    }
+  },
+  {
+    "ELID": 5555898,
+    "Point": {
+      "X": -2445.5459,
+      "Y": 55224.3494,
+      "Z": 61785.0
+    },
+    "Rotation": 5.51499700287E-13,
+    "Type": {
+      "family_type": " NC5",
+      "family": " New Furniture_Project Room Chairs_NC5"
+    }
+  },
+  {
+    "ELID": 5718316,
+    "Point": {
+      "X": -16263.7355,
+      "Y": 15657.5922,
+      "Z": 61797.0
+    },
+    "Rotation": 270.0,
+    "Type": {
+      "family_type": " NC6",
+      "family": " New Furniture_Chairs for Low Team Tables_NC6"
+    }
+  },
+  {
+    "ELID": 5718326,
+    "Point": {
+      "X": -16263.7355,
+      "Y": 16357.5922,
+      "Z": 61797.0
+    },
+    "Rotation": 270.0,
+    "Type": {
+      "family_type": " NC6",
+      "family": " New Furniture_Chairs for Low Team Tables_NC6"
+    }
+  },
+  {
+    "ELID": 5718327,
+    "Point": {
+      "X": -16263.7355,
+      "Y": 17057.5922,
+      "Z": 61797.0
+    },
+    "Rotation": 270.0,
+    "Type": {
+      "family_type": " NC6",
+      "family": " New Furniture_Chairs for Low Team Tables_NC6"
+    }
+  },
+  {
+    "ELID": 5718328,
+    "Point": {
+      "X": -17728.9891,
+      "Y": 15657.5922,
+      "Z": 61797.0
+    },
+    "Rotation": 270.0,
+    "Type": {
+      "family_type": " NC6",
+      "family": " New Furniture_Chairs for Low Team Tables_NC6"
+    }
+  },
+  {
+    "ELID": 5718329,
+    "Point": {
+      "X": -17728.9891,
+      "Y": 16357.5922,
+      "Z": 61797.0
+    },
+    "Rotation": 270.0,
+    "Type": {
+      "family_type": " NC6",
+      "family": " New Furniture_Chairs for Low Team Tables_NC6"
+    }
+  },
+  {
+    "ELID": 5718330,
+    "Point": {
+      "X": -17728.9891,
+      "Y": 17057.5922,
+      "Z": 61797.0
+    },
+    "Rotation": 270.0,
+    "Type": {
+      "family_type": " NC6",
+      "family": " New Furniture_Chairs for Low Team Tables_NC6"
+    }
+  },
+  {
+    "ELID": 7102585,
+    "Point": {
+      "X": -9173.3,
+      "Y": 1228.4314,
+      "Z": 61785.0
+    },
+    "Rotation": 0.0,
+    "Type": {
+      "family_type": " EC14",
+      "family": " Existing Furniture_Vitra Cork Stool_EC14"
+    }
+  },
+  {
+    "ELID": 7102586,
+    "Point": {
+      "X": -12846.0418,
+      "Y": 1228.4314,
+      "Z": 61785.0
+    },
+    "Rotation": 0.0,
+    "Type": {
+      "family_type": " EC14",
+      "family": " Existing Furniture_Vitra Cork Stool_EC14"
+    }
+  },
+  {
+    "ELID": 7937938,
+    "Point": {
+      "X": -46643.0947,
+      "Y": 19699.8717,
+      "Z": 61785.0
+    },
+    "Rotation": 90.0,
+    "Type": {
+      "family_type": " EC4A",
+      "family": " Existing Furniture_Aalto Stool 60_EC4"
+    }
+  },
+  {
+    "ELID": 7937943,
+    "Point": {
+      "X": -46825.5947,
+      "Y": 20330.2367,
+      "Z": 61785.0
+    },
+    "Rotation": 90.0,
+    "Type": {
+      "family_type": " EC4A",
+      "family": " Existing Furniture_Aalto Stool 60_EC4"
+    }
+  },
+  {
+    "ELID": 8121413,
+    "Point": {
+      "X": -64091.6631,
+      "Y": 21317.5447,
+      "Z": 61785.0
+    },
+    "Rotation": 0.0,
+    "Type": {
+      "family_type": " Existing Joinery_Materials Library 04",
+      "family": " Existing Joinery_Materials Library 04"
+    }
+  },
+  {
+    "ELID": 9330186,
+    "Point": {
+      "X": -40710.9524,
+      "Y": 43967.8757,
+      "Z": 61785.0
+    },
+    "Rotation": 0.0,
+    "Type": {
+      "family_type": " JO-N-28",
+      "family": " BVN_Furniture_Outdoor Table"
+    }
+  },
+  {
+    "ELID": 9347041,
+    "Point": {
+      "X": -64071.6631,
+      "Y": 23919.013,
+      "Z": 61785.0
+    },
+    "Rotation": 90.0,
+    "Type": {
+      "family_type": " EX-024.1",
+      "family": " BVN_Furniture_Materials Bookshelf Modular_EX-0_1 bay"
+    }
+  },
+  {
+    "ELID": 9347374,
+    "Point": {
+      "X": -61659.604,
+      "Y": 23460.3717,
+      "Z": 61785.0
+    },
+    "Rotation": 7.63333123551E-14,
+    "Type": {
+      "family_type": " ES1",
+      "family": " Existing Furniture_Metal Open Shelves_ES1"
+    }
+  },
+  {
+    "ELID": 9367025,
+    "Point": {
+      "X": -38358.0589,
+      "Y": 21183.2367,
+      "Z": 61785.0
+    },
+    "Rotation": 0.0,
+    "Type": {
+      "family_type": " ET22",
+      "family": " Existing Furniture_Boardroom Table_ET22"
+    }
+  },
+  {
+    "ELID": 9368299,
+    "Point": {
+      "X": -60859.604,
+      "Y": 23460.3717,
+      "Z": 61785.0
+    },
+    "Rotation": 7.63333123551E-14,
+    "Type": {
+      "family_type": " ES1",
+      "family": " Existing Furniture_Metal Open Shelves_ES1"
+    }
+  },
+  {
+    "ELID": 9368307,
+    "Point": {
+      "X": -60059.604,
+      "Y": 23460.3717,
+      "Z": 61785.0
+    },
+    "Rotation": 7.63333123551E-14,
+    "Type": {
+      "family_type": " ES1",
+      "family": " Existing Furniture_Metal Open Shelves_ES1"
+    }
+  },
+  {
+    "ELID": 9368315,
+    "Point": {
+      "X": -59259.604,
+      "Y": 23460.3717,
+      "Z": 61785.0
+    },
+    "Rotation": 7.63333123551E-14,
+    "Type": {
+      "family_type": " ES1",
+      "family": " Existing Furniture_Metal Open Shelves_ES1"
+    }
+  },
+  {
+    "ELID": 9368323,
+    "Point": {
+      "X": -58459.604,
+      "Y": 23460.3717,
+      "Z": 61785.0
+    },
+    "Rotation": 7.63333123551E-14,
+    "Type": {
+      "family_type": " ES1",
+      "family": " Existing Furniture_Metal Open Shelves_ES1"
+    }
+  },
+  {
+    "ELID": 9567331,
+    "Point": {
+      "X": -62459.604,
+      "Y": 23460.3717,
+      "Z": 61785.0
+    },
+    "Rotation": 7.63333123551E-14,
+    "Type": {
+      "family_type": " ES1",
+      "family": " Existing Furniture_Metal Open Shelves_ES1"
+    }
+  },
+  {
+    "ELID": 9569050,
+    "Point": {
+      "X": -26035.7646,
+      "Y": 39718.4714,
+      "Z": 61785.0
+    },
+    "Rotation": 90.0,
+    "Type": {
+      "family_type": " NC4",
+      "family": " New Furniture_Bar Stool_NC4"
+    }
+  },
+  {
+    "ELID": 9569072,
+    "Point": {
+      "X": -16474.6173,
+      "Y": 41738.4714,
+      "Z": 61785.0
+    },
+    "Rotation": 90.0,
+    "Type": {
+      "family_type": " NC4",
+      "family": " New Furniture_Bar Stool_NC4"
+    }
+  },
+  {
+    "ELID": 9569439,
+    "Point": {
+      "X": -16474.6173,
+      "Y": 41065.1381,
+      "Z": 61785.0
+    },
+    "Rotation": 90.0,
+    "Type": {
+      "family_type": " NC4",
+      "family": " New Furniture_Bar Stool_NC4"
+    }
+  },
+  {
+    "ELID": 9570067,
+    "Point": {
+      "X": -26045.1049,
+      "Y": 40362.1,
+      "Z": 61785.0
+    },
+    "Rotation": 270.0,
+    "Type": {
+      "family_type": " NC4",
+      "family": " New Furniture_Bar Stool_NC4"
+    }
+  },
+  {
+    "ELID": 9570068,
+    "Point": {
+      "X": -24306.7156,
+      "Y": 42740.2454,
+      "Z": 61785.0
+    },
+    "Rotation": 180.0,
+    "Type": {
+      "family_type": " NC4",
+      "family": " New Furniture_Bar Stool_NC4"
+    }
+  },
+  {
+    "ELID": 9674608,
+    "Point": {
+      "X": -20019.2642,
+      "Y": 48656.5331,
+      "Z": 61785.0
+    },
+    "Rotation": 110.170596473,
+    "Type": {
+      "family_type": " EC11",
+      "family": " Existing Furniture_Carl Hansen CH44_EC11"
+    }
+  },
+  {
+    "ELID": 9674610,
+    "Point": {
+      "X": -21171.9054,
+      "Y": 49290.7047,
+      "Z": 61785.0
+    },
+    "Rotation": 185.0,
+    "Type": {
+      "family_type": " EC11",
+      "family": " Existing Furniture_Carl Hansen CH44_EC11"
+    }
+  },
+  {
+    "ELID": 9675879,
+    "Point": {
+      "X": -57592.943,
+      "Y": 20210.4456,
+      "Z": 61797.0
+    },
+    "Rotation": 226.216160928,
+    "Type": {
+      "family_type": " NC6",
+      "family": " New Furniture_Chairs for Low Team Tables_NC6"
+    }
+  },
+  {
+    "ELID": 9675894,
+    "Point": {
+      "X": -59165.2983,
+      "Y": 20908.2367,
+      "Z": 61797.0
+    },
+    "Rotation": 270.0,
+    "Type": {
+      "family_type": " NC6",
+      "family": " New Furniture_Chairs for Low Team Tables_NC6"
+    }
+  },
+  {
+    "ELID": 9675897,
+    "Point": {
+      "X": -58265.2983,
+      "Y": 21875.8711,
+      "Z": 61797.0
+    },
+    "Rotation": 360.0,
+    "Type": {
+      "family_type": " NC6",
+      "family": " New Furniture_Chairs for Low Team Tables_NC6"
+    }
+  },
+  {
+    "ELID": 9675898,
+    "Point": {
+      "X": -58937.6536,
+      "Y": 21606.0278,
+      "Z": 61797.0
+    },
+    "Rotation": 46.2161609276,
+    "Type": {
+      "family_type": " NC6",
+      "family": " New Furniture_Chairs for Low Team Tables_NC6"
+    }
+  },
+  {
+    "ELID": 9675901,
+    "Point": {
+      "X": -57592.943,
+      "Y": 21606.0278,
+      "Z": 61797.0
+    },
+    "Rotation": 133.783839072,
+    "Type": {
+      "family_type": " NC6",
+      "family": " New Furniture_Chairs for Low Team Tables_NC6"
+    }
+  },
+  {
+    "ELID": 9691334,
+    "Point": {
+      "X": -39871.0038,
+      "Y": 20132.6614,
+      "Z": 61785.0
+    },
+    "Rotation": 0.0,
+    "Type": {
+      "family_type": " EC2",
+      "family": " Existing Furniture_Vitra Aluminium Group Chair_EC2"
+    }
+  },
+  {
+    "ELID": 9691335,
+    "Point": {
+      "X": -38262.2503,
+      "Y": 20131.4256,
+      "Z": 61785.0
+    },
+    "Rotation": 0.0,
+    "Type": {
+      "family_type": " EC2",
+      "family": " Existing Furniture_Vitra Aluminium Group Chair_EC2"
+    }
+  },
+  {
+    "ELID": 9691336,
+    "Point": {
+      "X": -37541.0038,
+      "Y": 20132.6305,
+      "Z": 61785.0
+    },
+    "Rotation": 0.0,
+    "Type": {
+      "family_type": " EC2",
+      "family": " Existing Furniture_Vitra Aluminium Group Chair_EC2"
+    }
+  },
+  {
+    "ELID": 9691337,
+    "Point": {
+      "X": -36762.2503,
+      "Y": 20131.4048,
+      "Z": 61785.0
+    },
+    "Rotation": 0.0,
+    "Type": {
+      "family_type": " EC2",
+      "family": " Existing Furniture_Vitra Aluminium Group Chair_EC2"
+    }
+  },
+  {
+    "ELID": 9691338,
+    "Point": {
+      "X": -39154.5765,
+      "Y": 20132.6364,
+      "Z": 61785.0
+    },
+    "Rotation": 0.0,
+    "Type": {
+      "family_type": " EC2",
+      "family": " Existing Furniture_Vitra Aluminium Group Chair_EC2"
+    }
+  },
+  {
+    "ELID": 9691360,
+    "Point": {
+      "X": -40895.1435,
+      "Y": 21603.3922,
+      "Z": 61785.0
+    },
+    "Rotation": 90.0,
+    "Type": {
+      "family_type": " EC2",
+      "family": " Existing Furniture_Vitra Aluminium Group Chair_EC2"
+    }
+  },
+  {
+    "ELID": 9691393,
+    "Point": {
+      "X": -40895.1435,
+      "Y": 20763.0813,
+      "Z": 61785.0
+    },
+    "Rotation": 270.0,
+    "Type": {
+      "family_type": " EC2",
+      "family": " Existing Furniture_Vitra Aluminium Group Chair_EC2"
+    }
+  },
+  {
+    "ELID": 9691410,
+    "Point": {
+      "X": -35789.3572,
+      "Y": 21603.3922,
+      "Z": 61785.0
+    },
+    "Rotation": 90.0,
+    "Type": {
+      "family_type": " EC2",
+      "family": " Existing Furniture_Vitra Aluminium Group Chair_EC2"
+    }
+  },
+  {
+    "ELID": 9691412,
+    "Point": {
+      "X": -35789.3572,
+      "Y": 20763.0813,
+      "Z": 61785.0
+    },
+    "Rotation": 270.0,
+    "Type": {
+      "family_type": " EC2",
+      "family": " Existing Furniture_Vitra Aluminium Group Chair_EC2"
+    }
+  },
+  {
+    "ELID": 9694653,
+    "Point": {
+      "X": -12405.3309,
+      "Y": 14197.2924,
+      "Z": 61785.0
+    },
+    "Rotation": 90.0,
+    "Type": {
+      "family_type": " ET2",
+      "family": " Existing Furniture_Rectangular Meeting Table_ET2"
+    }
+  },
+  {
+    "ELID": 9699093,
+    "Point": {
+      "X": -7648.6237,
+      "Y": 54707.5115,
+      "Z": 61785.0
+    },
+    "Rotation": 90.0,
+    "Type": {
+      "family_type": " ET2",
+      "family": " Existing Furniture_Rectangular Meeting Table_ET2"
+    }
+  },
+  {
+    "ELID": 9699324,
+    "Point": {
+      "X": -54063.803,
+      "Y": 25133.7344,
+      "Z": 61785.0
+    },
+    "Rotation": 0.0,
+    "Type": {
+      "family_type": " ET2",
+      "family": " Existing Furniture_Rectangular Meeting Table_ET2"
+    }
+  },
+  {
+    "ELID": 9699340,
+    "Point": {
+      "X": -12957.3977,
+      "Y": 11210.168,
+      "Z": 61785.0
+    },
+    "Rotation": 1.59027734073E-14,
+    "Type": {
+      "family_type": " ET2",
+      "family": " Existing Furniture_Rectangular Meeting Table_ET2"
+    }
+  },
+  {
+    "ELID": 9699445,
+    "Point": {
+      "X": -2405.2367,
+      "Y": 27043.8785,
+      "Z": 61797.0
+    },
+    "Rotation": 180.0,
+    "Type": {
+      "family_type": " NC6",
+      "family": " New Furniture_Chairs for Low Team Tables_NC6"
+    }
+  },
+  {
+    "ELID": 9699499,
+    "Point": {
+      "X": -1542.5038,
+      "Y": 27043.8785,
+      "Z": 61797.0
+    },
+    "Rotation": 360.0,
+    "Type": {
+      "family_type": " NC6",
+      "family": " New Furniture_Chairs for Low Team Tables_NC6"
+    }
+  },
+  {
+    "ELID": 9699525,
+    "Point": {
+      "X": -2405.2367,
+      "Y": 25356.2816,
+      "Z": 61797.0
+    },
+    "Rotation": 180.0,
+    "Type": {
+      "family_type": " NC6",
+      "family": " New Furniture_Chairs for Low Team Tables_NC6"
+    }
+  },
+  {
+    "ELID": 9699527,
+    "Point": {
+      "X": -1542.5038,
+      "Y": 25356.2816,
+      "Z": 61797.0
+    },
+    "Rotation": 360.0,
+    "Type": {
+      "family_type": " NC6",
+      "family": " New Furniture_Chairs for Low Team Tables_NC6"
+    }
+  },
+  {
+    "ELID": 9709599,
+    "Point": {
+      "X": -23375.4153,
+      "Y": 45067.2417,
+      "Z": 61785.0
+    },
+    "Rotation": 223.402241229,
+    "Type": {
+      "family_type": " EC27",
+      "family": " Existing Furniture_Thonet Armchair_EC27"
+    }
+  },
+  {
+    "ELID": 9710635,
+    "Point": {
+      "X": -23352.3683,
+      "Y": 46211.1494,
+      "Z": 61785.0
+    },
+    "Rotation": 141.0,
+    "Type": {
+      "family_type": " EC27",
+      "family": " Existing Furniture_Thonet Armchair_EC27"
+    }
+  },
+  {
+    "ELID": 9711621,
+    "Point": {
+      "X": -13709.8088,
+      "Y": 49375.904,
+      "Z": 61785.0
+    },
+    "Rotation": 0.0,
+    "Type": {
+      "family_type": " ET3",
+      "family": " Existing Furniture_Meeting Table Round_ET3"
+    }
+  },
+  {
+    "ELID": 9711624,
+    "Point": {
+      "X": -20603.8545,
+      "Y": 51561.0416,
+      "Z": 61785.0
+    },
+    "Rotation": 110.722917282,
+    "Type": {
+      "family_type": " ET3",
+      "family": " Existing Furniture_Meeting Table Round_ET3"
+    }
+  },
+  {
+    "ELID": 9711627,
+    "Point": {
+      "X": -6767.8269,
+      "Y": -1956.5751,
+      "Z": 61785.0
+    },
+    "Rotation": 0.0,
+    "Type": {
+      "family_type": " ET3",
+      "family": " Existing Furniture_Meeting Table Round_ET3"
+    }
+  },
+  {
+    "ELID": 9711630,
+    "Point": {
+      "X": -26114.9463,
+      "Y": 51710.8545,
+      "Z": 61785.0
+    },
+    "Rotation": 0.0,
+    "Type": {
+      "family_type": " ET3",
+      "family": " Existing Furniture_Meeting Table Round_ET3"
+    }
+  },
+  {
+    "ELID": 9711633,
+    "Point": {
+      "X": -23987.6351,
+      "Y": 45685.0272,
+      "Z": 61785.0
+    },
+    "Rotation": 0.0,
+    "Type": {
+      "family_type": " ET3",
+      "family": " Existing Furniture_Meeting Table Round_ET3"
+    }
+  },
+  {
+    "ELID": 9711636,
+    "Point": {
+      "X": -18115.1972,
+      "Y": 50302.575,
+      "Z": 61785.0
+    },
+    "Rotation": 0.0,
+    "Type": {
+      "family_type": " ET3",
+      "family": " Existing Furniture_Meeting Table Round_ET3"
+    }
+  },
+  {
+    "ELID": 9711639,
+    "Point": {
+      "X": -48054.8872,
+      "Y": 22438.4887,
+      "Z": 61785.0
+    },
+    "Rotation": 0.0,
+    "Type": {
+      "family_type": " ET3",
+      "family": " Existing Furniture_Meeting Table Round_ET3"
+    }
+  },
+  {
+    "ELID": 9712382,
+    "Point": {
+      "X": -11091.0418,
+      "Y": 1585.5577,
+      "Z": 61785.0
+    },
+    "Rotation": 90.0,
+    "Type": {
+      "family_type": " EO1",
+      "family": " Existing Furniture_Rug_EO1"
+    }
+  },
+  {
+    "ELID": 9713121,
+    "Point": {
+      "X": -25322.0607,
+      "Y": 44038.6797,
+      "Z": 61785.0
+    },
+    "Rotation": 90.0,
+    "Type": {
+      "family_type": " EO4",
+      "family": " Existing Furniture_Fooseball Table_EO4"
+    }
+  },
+  {
+    "ELID": 9721295,
+    "Point": {
+      "X": -52263.803,
+      "Y": 25133.7344,
+      "Z": 61785.0
+    },
+    "Rotation": 0.0,
+    "Type": {
+      "family_type": " ET2",
+      "family": " Existing Furniture_Rectangular Meeting Table_ET2"
+    }
+  },
+  {
+    "ELID": 9731966,
+    "Point": {
+      "X": -63222.9521,
+      "Y": 34034.796,
+      "Z": 61785.0
+    },
+    "Rotation": 0.0,
+    "Type": {
+      "family_type": " Perimeter Desking",
+      "family": " New Furniture_Monitor & Chair"
+    }
+  },
+  {
+    "ELID": 9732013,
+    "Point": {
+      "X": -61543.5484,
+      "Y": 34034.796,
+      "Z": 61785.0
+    },
+    "Rotation": 0.0,
+    "Type": {
+      "family_type": " Perimeter Desking",
+      "family": " New Furniture_Monitor & Chair"
+    }
+  },
+  {
+    "ELID": 9732060,
+    "Point": {
+      "X": -59995.6288,
+      "Y": 34034.796,
+      "Z": 61785.0
+    },
+    "Rotation": 0.0,
+    "Type": {
+      "family_type": " Perimeter Desking",
+      "family": " New Furniture_Monitor & Chair"
+    }
+  },
+  {
+    "ELID": 9732093,
+    "Point": {
+      "X": -58414.8382,
+      "Y": 34034.796,
+      "Z": 61785.0
+    },
+    "Rotation": 0.0,
+    "Type": {
+      "family_type": " Perimeter Desking",
+      "family": " New Furniture_Monitor & Chair"
+    }
+  },
+  {
+    "ELID": 9732126,
+    "Point": {
+      "X": -55578.9521,
+      "Y": 34034.796,
+      "Z": 61785.0
+    },
+    "Rotation": 0.0,
+    "Type": {
+      "family_type": " Perimeter Desking",
+      "family": " New Furniture_Monitor & Chair"
+    }
+  },
+  {
+    "ELID": 9732177,
+    "Point": {
+      "X": -54078.9521,
+      "Y": 34034.796,
+      "Z": 61785.0
+    },
+    "Rotation": 0.0,
+    "Type": {
+      "family_type": " Perimeter Desking",
+      "family": " New Furniture_Monitor & Chair"
+    }
+  },
+  {
+    "ELID": 9732242,
+    "Point": {
+      "X": -52278.9521,
+      "Y": 34034.796,
+      "Z": 61785.0
+    },
+    "Rotation": 0.0,
+    "Type": {
+      "family_type": " Perimeter Desking",
+      "family": " New Furniture_Monitor & Chair"
+    }
+  },
+  {
+    "ELID": 9732269,
+    "Point": {
+      "X": -50678.9521,
+      "Y": 34034.796,
+      "Z": 61785.0
+    },
+    "Rotation": 0.0,
+    "Type": {
+      "family_type": " Perimeter Desking",
+      "family": " New Furniture_Monitor & Chair"
+    }
+  },
+  {
+    "ELID": 9890442,
+    "Point": {
+      "X": -24079.5705,
+      "Y": 17678.8757,
+      "Z": 61785.0
+    },
+    "Rotation": 270.0,
+    "Type": {
+      "family_type": " ET5",
+      "family": " Existing Furniture_High Meeting Table-1800x900_ET-5"
+    }
+  },
+  {
+    "ELID": 9891303,
+    "Point": {
+      "X": -19785.809,
+      "Y": 23633.5137,
+      "Z": 61785.0
+    },
+    "Rotation": 180.0,
+    "Type": {
+      "family_type": " ET6",
+      "family": " Existing Furniture_High Meeting Table-2200x900_ET6"
+    }
+  },
+  {
+    "ELID": 9892137,
+    "Point": {
+      "X": -24585.809,
+      "Y": 22733.5137,
+      "Z": 61785.0
+    },
+    "Rotation": 0.0,
+    "Type": {
+      "family_type": " ET7",
+      "family": " Existing Furniture_High Meeting Table-1400x900_ET7"
+    }
+  },
+  {
+    "ELID": 9894941,
+    "Point": {
+      "X": -19785.809,
+      "Y": 20341.8704,
+      "Z": 61785.0
+    },
+    "Rotation": 0.0,
+    "Type": {
+      "family_type": " ET7",
+      "family": " Existing Furniture_High Meeting Table-1400x900_ET7"
+    }
+  },
+  {
+    "ELID": 9894986,
+    "Point": {
+      "X": -25479.5705,
+      "Y": 13728.8757,
+      "Z": 61785.0
+    },
+    "Rotation": 0.0,
+    "Type": {
+      "family_type": " ET7",
+      "family": " Existing Furniture_High Meeting Table-1400x900_ET7"
+    }
+  },
+  {
+    "ELID": 9895017,
+    "Point": {
+      "X": -24079.5705,
+      "Y": 13728.8757,
+      "Z": 61785.0
+    },
+    "Rotation": 0.0,
+    "Type": {
+      "family_type": " ET7",
+      "family": " Existing Furniture_High Meeting Table-1400x900_ET7"
+    }
+  },
+  {
+    "ELID": 9895228,
+    "Point": {
+      "X": -24979.5705,
+      "Y": 17678.8757,
+      "Z": 61785.0
+    },
+    "Rotation": 270.0,
+    "Type": {
+      "family_type": " ET5",
+      "family": " Existing Furniture_High Meeting Table-1800x900_ET-5"
+    }
+  },
+  {
+    "ELID": 9895274,
+    "Point": {
+      "X": -22385.809,
+      "Y": 21238.5499,
+      "Z": 61785.0
+    },
+    "Rotation": 180.0,
+    "Type": {
+      "family_type": " ET6",
+      "family": " Existing Furniture_High Meeting Table-2200x900_ET6"
+    }
+  },
+  {
+    "ELID": 9896888,
+    "Point": {
+      "X": -8399.4084,
+      "Y": 55332.4679,
+      "Z": 61797.0
+    },
+    "Rotation": 254.714480863,
+    "Type": {
+      "family_type": " NC6",
+      "family": " New Furniture_Chairs for Low Team Tables_NC6"
+    }
+  },
+  {
+    "ELID": 9896904,
+    "Point": {
+      "X": -7732.7517,
+      "Y": 55886.2217,
+      "Z": 61797.0
+    },
+    "Rotation": 4.71448086264,
+    "Type": {
+      "family_type": " NC6",
+      "family": " New Furniture_Chairs for Low Team Tables_NC6"
+    }
+  },
+  {
+    "ELID": 9900772,
+    "Point": {
+      "X": -7770.8975,
+      "Y": -3031.954,
+      "Z": 61785.0
+    },
+    "Rotation": 0.0,
+    "Type": {
+      "family_type": " ET4",
+      "family": " Existing Furniture_Kartell Compononbil_ET4"
+    }
+  },
+  {
+    "ELID": 9900780,
+    "Point": {
+      "X": -7361.0099,
+      "Y": 53173.3505,
+      "Z": 61785.0
+    },
+    "Rotation": 0.0,
+    "Type": {
+      "family_type": " ET4",
+      "family": " Existing Furniture_Kartell Compononbil_ET4"
+    }
+  },
+  {
+    "ELID": 9911320,
+    "Point": {
+      "X": -61659.604,
+      "Y": 23060.3717,
+      "Z": 61785.0
+    },
+    "Rotation": 360.0,
+    "Type": {
+      "family_type": " ES1",
+      "family": " Existing Furniture_Metal Open Shelves_ES1"
+    }
+  },
+  {
+    "ELID": 9911321,
+    "Point": {
+      "X": -60859.604,
+      "Y": 23060.3717,
+      "Z": 61785.0
+    },
+    "Rotation": 360.0,
+    "Type": {
+      "family_type": " ES1",
+      "family": " Existing Furniture_Metal Open Shelves_ES1"
+    }
+  },
+  {
+    "ELID": 9911322,
+    "Point": {
+      "X": -60059.604,
+      "Y": 23060.3717,
+      "Z": 61785.0
+    },
+    "Rotation": 360.0,
+    "Type": {
+      "family_type": " ES1",
+      "family": " Existing Furniture_Metal Open Shelves_ES1"
+    }
+  },
+  {
+    "ELID": 9911323,
+    "Point": {
+      "X": -59259.604,
+      "Y": 23060.3717,
+      "Z": 61785.0
+    },
+    "Rotation": 360.0,
+    "Type": {
+      "family_type": " ES1",
+      "family": " Existing Furniture_Metal Open Shelves_ES1"
+    }
+  },
+  {
+    "ELID": 9911324,
+    "Point": {
+      "X": -58459.604,
+      "Y": 23060.3717,
+      "Z": 61785.0
+    },
+    "Rotation": 360.0,
+    "Type": {
+      "family_type": " ES1",
+      "family": " Existing Furniture_Metal Open Shelves_ES1"
+    }
+  },
+  {
+    "ELID": 9911325,
+    "Point": {
+      "X": -62459.604,
+      "Y": 23060.3717,
+      "Z": 61785.0
+    },
+    "Rotation": 360.0,
+    "Type": {
+      "family_type": " ES1",
+      "family": " Existing Furniture_Metal Open Shelves_ES1"
+    }
+  },
+  {
+    "ELID": 10015460,
+    "Point": {
+      "X": -22822.3559,
+      "Y": 50281.4195,
+      "Z": 61785.0
+    },
+    "Rotation": 338.0,
+    "Type": {
+      "family_type": " EC4B",
+      "family": " Existing Furniture_Aalto Stool 60_EC4"
+    }
+  },
+  {
+    "ELID": 10015700,
+    "Point": {
+      "X": -21009.3397,
+      "Y": 48345.7364,
+      "Z": 61785.0
+    },
+    "Rotation": 65.0,
+    "Type": {
+      "family_type": " NT7",
+      "family": " New Furniture_Small Coffee Table_NT7"
+    }
+  },
+  {
+    "ELID": 10015806,
+    "Point": {
+      "X": -22898.8452,
+      "Y": 50875.4615,
+      "Z": 61785.0
+    },
+    "Rotation": 311.0,
+    "Type": {
+      "family_type": " NT7",
+      "family": " New Furniture_Small Coffee Table_NT7"
+    }
+  },
+  {
+    "ELID": 10015918,
+    "Point": {
+      "X": -23050.3496,
+      "Y": 49131.0782,
+      "Z": 61785.0
+    },
+    "Rotation": 262.39103824,
+    "Type": {
+      "family_type": " EC11",
+      "family": " Existing Furniture_Carl Hansen CH44_EC11"
+    }
+  },
+  {
+    "ELID": 10015919,
+    "Point": {
+      "X": -24129.2284,
+      "Y": 48176.3238,
+      "Z": 61785.0
+    },
+    "Rotation": 174.122056538,
+    "Type": {
+      "family_type": " EC11",
+      "family": " Existing Furniture_Carl Hansen CH44_EC11"
+    }
+  },
+  {
+    "ELID": 10015922,
+    "Point": {
+      "X": -24018.8115,
+      "Y": 49106.0129,
+      "Z": 61785.0
+    },
+    "Rotation": 318.195856539,
+    "Type": {
+      "family_type": " NT7",
+      "family": " New Furniture_Small Coffee Table_NT7"
+    }
+  },
+  {
+    "ELID": 10016833,
+    "Point": {
+      "X": -10465.899,
+      "Y": 49816.0408,
+      "Z": 61785.0
+    },
+    "Rotation": 274.279200624,
+    "Type": {
+      "family_type": " NC9",
+      "family": " New Furniture_Armchair_NC9"
+    }
+  },
+  {
+    "ELID": 10016834,
+    "Point": {
+      "X": -11211.4459,
+      "Y": 48411.1161,
+      "Z": 61785.0
+    },
+    "Rotation": 230.414014599,
+    "Type": {
+      "family_type": " NC9",
+      "family": " New Furniture_Armchair_NC9"
+    }
+  },
+  {
+    "ELID": 10032405,
+    "Point": {
+      "X": -16995.1401,
+      "Y": 16357.5922,
+      "Z": 61785.0
+    },
+    "Rotation": 90.0,
+    "Type": {
+      "family_type": " ET26",
+      "family": " Existing Furniture_Rectangular Meeting Table_ET26"
+    }
+  },
+  {
+    "ELID": 10032407,
+    "Point": {
+      "X": -2439.9523,
+      "Y": 26262.7956,
+      "Z": 61785.0
+    },
+    "Rotation": 0.0,
+    "Type": {
+      "family_type": " ET26",
+      "family": " Existing Furniture_Rectangular Meeting Table_ET26"
+    }
+  },
+  {
+    "ELID": 10032521,
+    "Point": {
+      "X": -23468.0753,
+      "Y": 42740.2454,
+      "Z": 61785.0
+    },
+    "Rotation": 180.0,
+    "Type": {
+      "family_type": " NC4",
+      "family": " New Furniture_Bar Stool_NC4"
+    }
+  },
+  {
+    "ELID": 10032522,
+    "Point": {
+      "X": -22629.435,
+      "Y": 42740.2454,
+      "Z": 61785.0
+    },
+    "Rotation": 180.0,
+    "Type": {
+      "family_type": " NC4",
+      "family": " New Furniture_Bar Stool_NC4"
+    }
+  },
+  {
+    "ELID": 10032525,
+    "Point": {
+      "X": -21790.7947,
+      "Y": 42740.2454,
+      "Z": 61785.0
+    },
+    "Rotation": 180.0,
+    "Type": {
+      "family_type": " NC4",
+      "family": " New Furniture_Bar Stool_NC4"
+    }
+  },
+  {
+    "ELID": 10032527,
+    "Point": {
+      "X": -18289.7682,
+      "Y": 38588.9282,
+      "Z": 61785.0
+    },
+    "Rotation": 360.0,
+    "Type": {
+      "family_type": " NC4",
+      "family": " New Furniture_Bar Stool_NC4"
+    }
+  },
+  {
+    "ELID": 10032528,
+    "Point": {
+      "X": -19169.8071,
+      "Y": 38588.928,
+      "Z": 61785.0
+    },
+    "Rotation": 0.595860090172,
+    "Type": {
+      "family_type": " NC4",
+      "family": " New Furniture_Bar Stool_NC4"
+    }
+  },
+  {
+    "ELID": 10032529,
+    "Point": {
+      "X": -19999.7682,
+      "Y": 38588.9282,
+      "Z": 61785.0
+    },
+    "Rotation": 8.56364347984E-13,
+    "Type": {
+      "family_type": " NC4",
+      "family": " New Furniture_Bar Stool_NC4"
+    }
+  },
+  {
+    "ELID": 10032530,
+    "Point": {
+      "X": -21109.7682,
+      "Y": 38588.9282,
+      "Z": 61785.0
+    },
+    "Rotation": 360.0,
+    "Type": {
+      "family_type": " NC4",
+      "family": " New Furniture_Bar Stool_NC4"
+    }
+  },
+  {
+    "ELID": 10032538,
+    "Point": {
+      "X": -24740.7947,
+      "Y": 38581.3449,
+      "Z": 61785.0
+    },
+    "Rotation": 180.0,
+    "Type": {
+      "family_type": " NC4",
+      "family": " New Furniture_Bar Stool_NC4"
+    }
+  },
+  {
+    "ELID": 10032539,
+    "Point": {
+      "X": -24090.7947,
+      "Y": 38581.3449,
+      "Z": 61785.0
+    },
+    "Rotation": 180.0,
+    "Type": {
+      "family_type": " NC4",
+      "family": " New Furniture_Bar Stool_NC4"
+    }
+  },
+  {
+    "ELID": 10032559,
+    "Point": {
+      "X": -17489.8382,
+      "Y": 38588.9275,
+      "Z": 61785.0
+    },
+    "Rotation": 1.07284061057,
+    "Type": {
+      "family_type": " NC4",
+      "family": " New Furniture_Bar Stool_NC4"
+    }
+  },
+  {
+    "ELID": 10044469,
+    "Point": {
+      "X": -64071.6631,
+      "Y": 27854.7812,
+      "Z": 61785.0
+    },
+    "Rotation": 90.0,
+    "Type": {
+      "family_type": " EX-024.1",
+      "family": " BVN_Furniture_Materials Bookshelf Modular_EX-0_1 bay"
+    }
+  },
+  {
+    "ELID": 10100708,
+    "Point": {
+      "X": -24285.8073,
+      "Y": 37128.5099,
+      "Z": 62175.0
+    },
+    "Rotation": 180.0,
+    "Type": {
+      "family_type": " MIR-002.06 600W x 1300H",
+      "family": " MIR-002_Mirror_WallMounted_SPA"
+    }
+  },
+  {
+    "ELID": 10106142,
+    "Point": {
+      "X": -17372.4075,
+      "Y": 45223.427,
+      "Z": 61785.0
+    },
+    "Rotation": 344.874617159,
+    "Type": {
+      "family_type": " NT6",
+      "family": " New Furniture_Forum Table_NT6"
+    }
+  },
+  {
+    "ELID": 10107136,
+    "Point": {
+      "X": -18470.4078,
+      "Y": 49643.5833,
+      "Z": 61785.0
+    },
+    "Rotation": 27.0,
+    "Type": {
+      "family_type": " EC4B",
+      "family": " Existing Furniture_Aalto Stool 60_EC4"
+    }
+  },
+  {
+    "ELID": 10107137,
+    "Point": {
+      "X": -20822.1141,
+      "Y": 50841.1626,
+      "Z": 61785.0
+    },
+    "Rotation": 111.509536992,
+    "Type": {
+      "family_type": " EC4B",
+      "family": " Existing Furniture_Aalto Stool 60_EC4"
+    }
+  },
+  {
+    "ELID": 10107138,
+    "Point": {
+      "X": -4406.2513,
+      "Y": 48978.1959,
+      "Z": 61785.0
+    },
+    "Rotation": 27.0,
+    "Type": {
+      "family_type": " EC4B",
+      "family": " Existing Furniture_Aalto Stool 60_EC4"
+    }
+  },
+  {
+    "ELID": 10107139,
+    "Point": {
+      "X": -22330.1178,
+      "Y": 50660.9813,
+      "Z": 61785.0
+    },
+    "Rotation": 338.0,
+    "Type": {
+      "family_type": " EC4B",
+      "family": " Existing Furniture_Aalto Stool 60_EC4"
+    }
+  },
+  {
+    "ELID": 10107140,
+    "Point": {
+      "X": -26221.3591,
+      "Y": 50985.3388,
+      "Z": 61785.0
+    },
+    "Rotation": 27.0,
+    "Type": {
+      "family_type": " EC4B",
+      "family": " Existing Furniture_Aalto Stool 60_EC4"
+    }
+  },
+  {
+    "ELID": 10107141,
+    "Point": {
+      "X": -24634.626,
+      "Y": 45799.8426,
+      "Z": 61785.0
+    },
+    "Rotation": 27.0,
+    "Type": {
+      "family_type": " EC4B",
+      "family": " Existing Furniture_Aalto Stool 60_EC4"
+    }
+  },
+  {
+    "ELID": 10107142,
+    "Point": {
+      "X": -24728.9822,
+      "Y": 48890.5927,
+      "Z": 61785.0
+    },
+    "Rotation": 355.0,
+    "Type": {
+      "family_type": " EC4B",
+      "family": " Existing Furniture_Aalto Stool 60_EC4"
+    }
+  },
+  {
+    "ELID": 10107143,
+    "Point": {
+      "X": -13319.0475,
+      "Y": 48741.4597,
+      "Z": 61785.0
+    },
+    "Rotation": 27.0,
+    "Type": {
+      "family_type": " EC4B",
+      "family": " Existing Furniture_Aalto Stool 60_EC4"
+    }
+  },
+  {
+    "ELID": 10107144,
+    "Point": {
+      "X": -26769.4385,
+      "Y": 51420.3368,
+      "Z": 61785.0
+    },
+    "Rotation": 27.0,
+    "Type": {
+      "family_type": " EC4B",
+      "family": " Existing Furniture_Aalto Stool 60_EC4"
+    }
+  },
+  {
+    "ELID": 10107145,
+    "Point": {
+      "X": -20692.338,
+      "Y": 52318.8356,
+      "Z": 61785.0
+    },
+    "Rotation": 137.722917282,
+    "Type": {
+      "family_type": " EC4B",
+      "family": " Existing Furniture_Aalto Stool 60_EC4"
+    }
+  },
+  {
+    "ELID": 10107146,
+    "Point": {
+      "X": -20248.5946,
+      "Y": 50940.1381,
+      "Z": 61785.0
+    },
+    "Rotation": 137.722917282,
+    "Type": {
+      "family_type": " EC4B",
+      "family": " Existing Furniture_Aalto Stool 60_EC4"
+    }
+  },
+  {
+    "ELID": 10107147,
+    "Point": {
+      "X": -15963.2205,
+      "Y": 32291.0436,
+      "Z": 61785.0
+    },
+    "Rotation": 27.0,
+    "Type": {
+      "family_type": " EC4B",
+      "family": " Existing Furniture_Aalto Stool 60_EC4"
+    }
+  },
+  {
+    "ELID": 10107148,
+    "Point": {
+      "X": -21629.6643,
+      "Y": 48308.6634,
+      "Z": 61785.0
+    },
+    "Rotation": 27.0,
+    "Type": {
+      "family_type": " EC4B",
+      "family": " Existing Furniture_Aalto Stool 60_EC4"
+    }
+  },
+  {
+    "ELID": 10107149,
+    "Point": {
+      "X": -5240.3444,
+      "Y": 14561.1432,
+      "Z": 61785.0
+    },
+    "Rotation": 27.0,
+    "Type": {
+      "family_type": " EC4B",
+      "family": " Existing Furniture_Aalto Stool 60_EC4"
+    }
+  },
+  {
+    "ELID": 10126843,
+    "Point": {
+      "X": -3185.2367,
+      "Y": 27043.8785,
+      "Z": 61797.0
+    },
+    "Rotation": 180.0,
+    "Type": {
+      "family_type": " NC6",
+      "family": " New Furniture_Chairs for Low Team Tables_NC6"
+    }
+  },
+  {
+    "ELID": 10126844,
+    "Point": {
+      "X": -3185.2367,
+      "Y": 25356.2816,
+      "Z": 61797.0
+    },
+    "Rotation": 180.0,
+    "Type": {
+      "family_type": " NC6",
+      "family": " New Furniture_Chairs for Low Team Tables_NC6"
+    }
+  },
+  {
+    "ELID": 10126847,
+    "Point": {
+      "X": -3814.4038,
+      "Y": 26266.8032,
+      "Z": 61797.0
+    },
+    "Rotation": 270.0,
+    "Type": {
+      "family_type": " NC6",
+      "family": " New Furniture_Chairs for Low Team Tables_NC6"
+    }
+  },
+  {
+    "ELID": 10126848,
+    "Point": {
+      "X": -1065.5007,
+      "Y": 26266.8032,
+      "Z": 61797.0
+    },
+    "Rotation": 270.0,
+    "Type": {
+      "family_type": " NC6",
+      "family": " New Furniture_Chairs for Low Team Tables_NC6"
+    }
+  },
+  {
+    "ELID": 10126851,
+    "Point": {
+      "X": -16935.6629,
+      "Y": 17730.0379,
+      "Z": 61797.0
+    },
+    "Rotation": 180.0,
+    "Type": {
+      "family_type": " NC6",
+      "family": " New Furniture_Chairs for Low Team Tables_NC6"
+    }
+  },
+  {
+    "ELID": 10126852,
+    "Point": {
+      "X": -16935.6629,
+      "Y": 14947.0449,
+      "Z": 61797.0
+    },
+    "Rotation": 180.0,
+    "Type": {
+      "family_type": " NC6",
+      "family": " New Furniture_Chairs for Low Team Tables_NC6"
+    }
+  },
+  {
+    "ELID": 10130666,
+    "Point": {
+      "X": -12282.987,
+      "Y": 15329.6849,
+      "Z": 61785.0
+    },
+    "Rotation": 0.0,
+    "Type": {
+      "family_type": " EC4A",
+      "family": " Existing Furniture_Aalto Stool 60_EC4"
+    }
+  },
+  {
+    "ELID": 10130667,
+    "Point": {
+      "X": -11748.8142,
+      "Y": 14720.128,
+      "Z": 61785.0
+    },
+    "Rotation": 0.0,
+    "Type": {
+      "family_type": " EC4A",
+      "family": " Existing Furniture_Aalto Stool 60_EC4"
+    }
+  },
+  {
+    "ELID": 10130668,
+    "Point": {
+      "X": -7616.3948,
+      "Y": 52779.5768,
+      "Z": 61785.0
+    },
+    "Rotation": 0.0,
+    "Type": {
+      "family_type": " EC4A",
+      "family": " Existing Furniture_Aalto Stool 60_EC4"
+    }
+  },
+  {
+    "ELID": 10130669,
+    "Point": {
+      "X": -52693.3604,
+      "Y": 24541.1554,
+      "Z": 61785.0
+    },
+    "Rotation": 0.0,
+    "Type": {
+      "family_type": " EC4A",
+      "family": " Existing Furniture_Aalto Stool 60_EC4"
+    }
+  },
+  {
+    "ELID": 10130670,
+    "Point": {
+      "X": -47395.5947,
+      "Y": 20590.2367,
+      "Z": 61785.0
+    },
+    "Rotation": 0.0,
+    "Type": {
+      "family_type": " EC4A",
+      "family": " Existing Furniture_Aalto Stool 60_EC4"
+    }
+  },
+  {
+    "ELID": 10130671,
+    "Point": {
+      "X": -7840.4162,
+      "Y": 53253.9561,
+      "Z": 61785.0
+    },
+    "Rotation": 0.0,
+    "Type": {
+      "family_type": " EC4A",
+      "family": " Existing Furniture_Aalto Stool 60_EC4"
+    }
+  },
+  {
+    "ELID": 10130672,
+    "Point": {
+      "X": -6809.8488,
+      "Y": -1245.2377,
+      "Z": 61785.0
+    },
+    "Rotation": 27.0,
+    "Type": {
+      "family_type": " EC4A",
+      "family": " Existing Furniture_Aalto Stool 60_EC4"
+    }
+  },
+  {
+    "ELID": 10130673,
+    "Point": {
+      "X": -6869.4681,
+      "Y": -2686.5941,
+      "Z": 61785.0
+    },
+    "Rotation": 27.0,
+    "Type": {
+      "family_type": " EC4A",
+      "family": " Existing Furniture_Aalto Stool 60_EC4"
+    }
+  },
+  {
+    "ELID": 10130674,
+    "Point": {
+      "X": -5704.4675,
+      "Y": 42550.3198,
+      "Z": 61785.0
+    },
+    "Rotation": 297.0,
+    "Type": {
+      "family_type": " EC4A",
+      "family": " Existing Furniture_Aalto Stool 60_EC4"
+    }
+  },
+  {
+    "ELID": 10140832,
+    "Point": {
+      "X": -20268.4788,
+      "Y": 46006.2237,
+      "Z": 61785.0
+    },
+    "Rotation": 344.874617159,
+    "Type": {
+      "family_type": " NT6",
+      "family": " New Furniture_Forum Table_NT6"
+    }
+  },
+  {
+    "ELID": 10141022,
+    "Point": {
+      "X": -20878.1033,
+      "Y": 46776.9955,
+      "Z": 61745.0
+    },
+    "Rotation": 344.874617159,
+    "Type": {
+      "family_type": " NC2",
+      "family": " New Furniture_Meeting Chair_NC2"
+    }
+  },
+  {
+    "ELID": 10141121,
+    "Point": {
+      "X": -19526.6033,
+      "Y": 46411.6904,
+      "Z": 61745.0
+    },
+    "Rotation": 344.874617159,
+    "Type": {
+      "family_type": " NC2",
+      "family": " New Furniture_Meeting Chair_NC2"
+    }
+  },
+  {
+    "ELID": 10141189,
+    "Point": {
+      "X": -18368.1748,
+      "Y": 46098.5718,
+      "Z": 61745.0
+    },
+    "Rotation": 344.874617159,
+    "Type": {
+      "family_type": " NC2",
+      "family": " New Furniture_Meeting Chair_NC2"
+    }
+  },
+  {
+    "ELID": 10141190,
+    "Point": {
+      "X": -17692.4248,
+      "Y": 45915.9193,
+      "Z": 61745.0
+    },
+    "Rotation": 344.874617159,
+    "Type": {
+      "family_type": " NC2",
+      "family": " New Furniture_Meeting Chair_NC2"
+    }
+  },
+  {
+    "ELID": 10141192,
+    "Point": {
+      "X": -16340.9248,
+      "Y": 45550.6142,
+      "Z": 61745.0
+    },
+    "Rotation": 344.874617159,
+    "Type": {
+      "family_type": " NC2",
+      "family": " New Furniture_Meeting Chair_NC2"
+    }
+  },
+  {
+    "ELID": 10141202,
+    "Point": {
+      "X": -21183.3937,
+      "Y": 45647.5287,
+      "Z": 61745.0
+    },
+    "Rotation": 344.874617159,
+    "Type": {
+      "family_type": " NC2",
+      "family": " New Furniture_Meeting Chair_NC2"
+    }
+  },
+  {
+    "ELID": 10141204,
+    "Point": {
+      "X": -19831.8937,
+      "Y": 45282.2236,
+      "Z": 61745.0
+    },
+    "Rotation": 344.874617159,
+    "Type": {
+      "family_type": " NC2",
+      "family": " New Furniture_Meeting Chair_NC2"
+    }
+  },
+  {
+    "ELID": 10141206,
+    "Point": {
+      "X": -18673.4652,
+      "Y": 44969.105,
+      "Z": 61745.0
+    },
+    "Rotation": 344.874617159,
+    "Type": {
+      "family_type": " NC2",
+      "family": " New Furniture_Meeting Chair_NC2"
+    }
+  },
+  {
+    "ELID": 10141207,
+    "Point": {
+      "X": -17997.7152,
+      "Y": 44786.4524,
+      "Z": 61745.0
+    },
+    "Rotation": 344.874617159,
+    "Type": {
+      "family_type": " NC2",
+      "family": " New Furniture_Meeting Chair_NC2"
+    }
+  },
+  {
+    "ELID": 10141209,
+    "Point": {
+      "X": -16646.2152,
+      "Y": 44421.1474,
+      "Z": 61745.0
+    },
+    "Rotation": 344.874617159,
+    "Type": {
+      "family_type": " NC2",
+      "family": " New Furniture_Meeting Chair_NC2"
+    }
+  },
+  {
+    "ELID": 11550642,
+    "Point": {
+      "X": -58265.2983,
+      "Y": 20908.2367,
+      "Z": 61785.0
+    },
+    "Rotation": 180.0,
+    "Type": {
+      "family_type": " ET24",
+      "family": " Existing Furniture_Meeting Table Round_ET24"
+    }
+  },
+  {
+    "ELID": 11550643,
+    "Point": {
+      "X": -58265.2983,
+      "Y": 19940.6024,
+      "Z": 61797.0
+    },
+    "Rotation": 1.33583296621E-13,
+    "Type": {
+      "family_type": " NC6",
+      "family": " New Furniture_Chairs for Low Team Tables_NC6"
+    }
+  },
+  {
+    "ELID": 11550644,
+    "Point": {
+      "X": -58937.6536,
+      "Y": 20210.4456,
+      "Z": 61797.0
+    },
+    "Rotation": 313.783839072,
+    "Type": {
+      "family_type": " NC6",
+      "family": " New Furniture_Chairs for Low Team Tables_NC6"
+    }
+  },
+  {
+    "ELID": 11550645,
+    "Point": {
+      "X": -57365.2983,
+      "Y": 20908.2367,
+      "Z": 61797.0
+    },
+    "Rotation": 270.0,
+    "Type": {
+      "family_type": " NC6",
+      "family": " New Furniture_Chairs for Low Team Tables_NC6"
+    }
+  },
+  {
+    "ELID": 11551741,
+    "Point": {
+      "X": -51804.5133,
+      "Y": 24545.2913,
+      "Z": 61785.0
+    },
+    "Rotation": 173.0,
+    "Type": {
+      "family_type": " EC4A",
+      "family": " Existing Furniture_Aalto Stool 60_EC4"
+    }
+  },
+  {
+    "ELID": 11656069,
+    "Point": {
+      "X": -19785.809,
+      "Y": 22733.5137,
+      "Z": 61785.0
+    },
+    "Rotation": 0.0,
+    "Type": {
+      "family_type": " ET7",
+      "family": " Existing Furniture_High Meeting Table-1400x900_ET7"
+    }
+  },
+  {
+    "ELID": 11656224,
+    "Point": {
+      "X": -22385.809,
+      "Y": 20338.5499,
+      "Z": 61785.0
+    },
+    "Rotation": 0.0,
+    "Type": {
+      "family_type": " ET7",
+      "family": " Existing Furniture_High Meeting Table-1400x900_ET7"
+    }
+  },
+  {
+    "ELID": 11659983,
+    "Point": {
+      "X": -26484.142,
+      "Y": 21493.2372,
+      "Z": 61785.0
+    },
+    "Rotation": 90.0,
+    "Type": {
+      "family_type": " NC4",
+      "family": " New Furniture_Bar Stool_NC4"
+    }
+  },
+  {
+    "ELID": 11659984,
+    "Point": {
+      "X": -26484.142,
+      "Y": 20819.9039,
+      "Z": 61785.0
+    },
+    "Rotation": 90.0,
+    "Type": {
+      "family_type": " NC4",
+      "family": " New Furniture_Bar Stool_NC4"
+    }
+  },
+  {
+    "ELID": 11659985,
+    "Point": {
+      "X": -31505.8775,
+      "Y": 19751.5137,
+      "Z": 61785.0
+    },
+    "Rotation": 0.0,
+    "Type": {
+      "family_type": " NT7",
+      "family": " New Furniture_Small Coffee Table_NT7"
+    }
+  },
+  {
+    "ELID": 11659998,
+    "Point": {
+      "X": -30380.9178,
+      "Y": 20269.2548,
+      "Z": 61785.0
+    },
+    "Rotation": 316.0,
+    "Type": {
+      "family_type": " NC9",
+      "family": " New Furniture_Armchair_NC9"
+    }
+  },
+  {
+    "ELID": 11659999,
+    "Point": {
+      "X": -32342.0799,
+      "Y": 20761.167,
+      "Z": 61785.0
+    },
+    "Rotation": 4.41401459938,
+    "Type": {
+      "family_type": " NC9",
+      "family": " New Furniture_Armchair_NC9"
+    }
+  },
+  {
+    "ELID": 11660023,
+    "Point": {
+      "X": -28292.94,
+      "Y": 22502.7466,
+      "Z": 61785.0
+    },
+    "Rotation": 338.0,
+    "Type": {
+      "family_type": " NC4",
+      "family": " New Furniture_Bar Stool_NC4"
+    }
+  },
+  {
+    "ELID": 11660024,
+    "Point": {
+      "X": -29026.2495,
+      "Y": 21748.5499,
+      "Z": 61785.0
+    },
+    "Rotation": 90.0,
+    "Type": {
+      "family_type": " NC4",
+      "family": " New Furniture_Bar Stool_NC4"
+    }
+  },
+  {
+    "ELID": 11660025,
+    "Point": {
+      "X": -27791.7092,
+      "Y": 20231.5137,
+      "Z": 61985.0
+    },
+    "Rotation": 0.0,
+    "Type": {
+      "family_type": " Desk 03",
+      "family": " Desk 03"
+    }
+  },
+  {
+    "ELID": 11910098,
+    "Point": {
+      "X": -48445.5253,
+      "Y": 23079.9589,
+      "Z": 61785.0
+    },
+    "Rotation": 21.0,
+    "Type": {
+      "family_type": " NC5",
+      "family": " New Furniture_Project Room Chairs_NC5"
+    }
+  },
+  {
+    "ELID": 11910099,
+    "Point": {
+      "X": -47817.7655,
+      "Y": 21822.9089,
+      "Z": 61785.0
+    },
+    "Rotation": 360.0,
+    "Type": {
+      "family_type": " NC5",
+      "family": " New Furniture_Project Room Chairs_NC5"
+    }
+  },
+  {
+    "ELID": 12078799,
+    "Point": {
+      "X": -64051.6631,
+      "Y": 19608.2367,
+      "Z": 61785.0
+    },
+    "Rotation": 90.0,
+    "Type": {
+      "family_type": " ES1",
+      "family": " Existing Furniture_Metal Open Shelves_ES1"
+    }
+  },
+  {
+    "ELID": 12078854,
+    "Point": {
+      "X": -64051.6631,
+      "Y": 20438.2367,
+      "Z": 61785.0
+    },
+    "Rotation": 90.0,
+    "Type": {
+      "family_type": " ES1",
+      "family": " Existing Furniture_Metal Open Shelves_ES1"
+    }
+  },
+  {
+    "ELID": 12078872,
+    "Point": {
+      "X": -64051.6631,
+      "Y": 21253.2367,
+      "Z": 61785.0
+    },
+    "Rotation": 90.0,
+    "Type": {
+      "family_type": " ES1",
+      "family": " Existing Furniture_Metal Open Shelves_ES1"
+    }
+  },
+  {
+    "ELID": 12078885,
+    "Point": {
+      "X": -64051.6631,
+      "Y": 22098.2367,
+      "Z": 61785.0
+    },
+    "Rotation": 90.0,
+    "Type": {
+      "family_type": " ES1",
+      "family": " Existing Furniture_Metal Open Shelves_ES1"
+    }
+  },
+  {
+    "ELID": 12088471,
+    "Point": {
+      "X": -6980.0,
+      "Y": 15501.3757,
+      "Z": 61785.0
+    },
+    "Rotation": 270.0,
+    "Type": {
+      "family_type": " NT1",
+      "family": " New Furniture_Team Table_NT1"
+    }
+  },
+  {
+    "ELID": 12088472,
+    "Point": {
+      "X": -2791.642,
+      "Y": 34042.6059,
+      "Z": 61785.0
+    },
+    "Rotation": 0.0,
+    "Type": {
+      "family_type": " NT1",
+      "family": " New Furniture_Team Table_NT1"
+    }
+  },
+  {
+    "ELID": 12088473,
+    "Point": {
+      "X": -985.7449,
+      "Y": 4684.8742,
+      "Z": 61785.0
+    },
+    "Rotation": 56.9698737346,
+    "Type": {
+      "family_type": " EC4A",
+      "family": " Existing Furniture_Aalto Stool 60_EC4"
+    }
+  },
+  {
+    "ELID": 12088474,
+    "Point": {
+      "X": -27243.0673,
+      "Y": 11217.8757,
+      "Z": 61785.0
+    },
+    "Rotation": 270.0,
+    "Type": {
+      "family_type": " Perimeter Desking",
+      "family": " New Furniture_Monitor & Chair"
+    }
+  },
+  {
+    "ELID": 12088475,
+    "Point": {
+      "X": -27243.0673,
+      "Y": 9817.8757,
+      "Z": 61785.0
+    },
+    "Rotation": 270.0,
+    "Type": {
+      "family_type": " Perimeter Desking",
+      "family": " New Furniture_Monitor & Chair"
+    }
+  },
+  {
+    "ELID": 12088476,
+    "Point": {
+      "X": -27243.0673,
+      "Y": 7252.8757,
+      "Z": 61785.0
+    },
+    "Rotation": 270.0,
+    "Type": {
+      "family_type": " Perimeter Desking",
+      "family": " New Furniture_Monitor & Chair"
+    }
+  },
+  {
+    "ELID": 12088477,
+    "Point": {
+      "X": -27243.0673,
+      "Y": 5852.8757,
+      "Z": 61785.0
+    },
+    "Rotation": 270.0,
+    "Type": {
+      "family_type": " Perimeter Desking",
+      "family": " New Furniture_Monitor & Chair"
+    }
+  },
+  {
+    "ELID": 12088478,
+    "Point": {
+      "X": -27243.0673,
+      "Y": 4452.8757,
+      "Z": 61785.0
+    },
+    "Rotation": 270.0,
+    "Type": {
+      "family_type": " Perimeter Desking",
+      "family": " New Furniture_Monitor & Chair"
+    }
+  },
+  {
+    "ELID": 12088479,
+    "Point": {
+      "X": -27243.0673,
+      "Y": 3052.8757,
+      "Z": 61785.0
+    },
+    "Rotation": 270.0,
+    "Type": {
+      "family_type": " Perimeter Desking",
+      "family": " New Furniture_Monitor & Chair"
+    }
+  },
+  {
+    "ELID": 12088480,
+    "Point": {
+      "X": -27243.0673,
+      "Y": 1652.8757,
+      "Z": 61785.0
+    },
+    "Rotation": 270.0,
+    "Type": {
+      "family_type": " Perimeter Desking",
+      "family": " New Furniture_Monitor & Chair"
+    }
+  },
+  {
+    "ELID": 12088481,
+    "Point": {
+      "X": -26253.0673,
+      "Y": -202.1243,
+      "Z": 61785.0
+    },
+    "Rotation": 3.91863825756E-13,
+    "Type": {
+      "family_type": " Perimeter Desking",
+      "family": " New Furniture_Monitor & Chair"
+    }
+  },
+  {
+    "ELID": 12088482,
+    "Point": {
+      "X": -24853.0673,
+      "Y": -202.1243,
+      "Z": 61785.0
+    },
+    "Rotation": 3.91863825756E-13,
+    "Type": {
+      "family_type": " Perimeter Desking",
+      "family": " New Furniture_Monitor & Chair"
+    }
+  },
+  {
+    "ELID": 12088483,
+    "Point": {
+      "X": -23453.0673,
+      "Y": -202.1243,
+      "Z": 61785.0
+    },
+    "Rotation": 3.91863825756E-13,
+    "Type": {
+      "family_type": " Perimeter Desking",
+      "family": " New Furniture_Monitor & Chair"
+    }
+  },
+  {
+    "ELID": 12088484,
+    "Point": {
+      "X": -22053.0673,
+      "Y": -202.1243,
+      "Z": 61785.0
+    },
+    "Rotation": 3.91863825756E-13,
+    "Type": {
+      "family_type": " Perimeter Desking",
+      "family": " New Furniture_Monitor & Chair"
+    }
+  },
+  {
+    "ELID": 12088491,
+    "Point": {
+      "X": -13105.9529,
+      "Y": 30966.2913,
+      "Z": 61785.0
+    },
+    "Rotation": 180.0,
+    "Type": {
+      "family_type": " NT1",
+      "family": " New Furniture_Team Table_NT1"
+    }
+  },
+  {
+    "ELID": 12088492,
+    "Point": {
+      "X": -24979.5705,
+      "Y": 8624.7953,
+      "Z": 61785.0
+    },
+    "Rotation": 270.0,
+    "Type": {
+      "family_type": " NT1",
+      "family": " New Furniture_Team Table_NT1"
+    }
+  },
+  {
+    "ELID": 12088495,
+    "Point": {
+      "X": -16565.367,
+      "Y": 8624.7953,
+      "Z": 61785.0
+    },
+    "Rotation": 270.0,
+    "Type": {
+      "family_type": " NT1",
+      "family": " New Furniture_Team Table_NT1"
+    }
+  },
+  {
+    "ELID": 12088498,
+    "Point": {
+      "X": -14729.6964,
+      "Y": 23561.9509,
+      "Z": 61785.0
+    },
+    "Rotation": 270.0,
+    "Type": {
+      "family_type": " NT1",
+      "family": " New Furniture_Team Table_NT1"
+    }
+  },
+  {
+    "ELID": 12088499,
+    "Point": {
+      "X": -11929.6964,
+      "Y": 23561.9509,
+      "Z": 61785.0
+    },
+    "Rotation": 270.0,
+    "Type": {
+      "family_type": " NT1",
+      "family": " New Furniture_Team Table_NT1"
+    }
+  },
+  {
+    "ELID": 12088500,
+    "Point": {
+      "X": -14729.6964,
+      "Y": 20655.1111,
+      "Z": 61785.0
+    },
+    "Rotation": 90.0,
+    "Type": {
+      "family_type": " NT1",
+      "family": " New Furniture_Team Table_NT1"
+    }
+  },
+  {
+    "ELID": 12088501,
+    "Point": {
+      "X": -11929.6964,
+      "Y": 20655.1111,
+      "Z": 61785.0
+    },
+    "Rotation": 90.0,
+    "Type": {
+      "family_type": " NT1",
+      "family": " New Furniture_Team Table_NT1"
+    }
+  },
+  {
+    "ELID": 12088508,
+    "Point": {
+      "X": -2444.0471,
+      "Y": 47959.1355,
+      "Z": 61785.0
+    },
+    "Rotation": 0.0,
+    "Type": {
+      "family_type": " NT1",
+      "family": " New Furniture_Team Table_NT1"
+    }
+  },
+  {
+    "ELID": 12088510,
+    "Point": {
+      "X": -13105.9529,
+      "Y": 29466.2913,
+      "Z": 61785.0
+    },
+    "Rotation": 90.0,
+    "Type": {
+      "family_type": " NT1",
+      "family": " New Furniture_Team Table_NT1"
+    }
+  },
+  {
+    "ELID": 12088511,
+    "Point": {
+      "X": -18065.367,
+      "Y": 8624.7953,
+      "Z": 61785.0
+    },
+    "Rotation": 90.0,
+    "Type": {
+      "family_type": " NT1",
+      "family": " New Furniture_Team Table_NT1"
+    }
+  },
+  {
+    "ELID": 12088512,
+    "Point": {
+      "X": -3944.0471,
+      "Y": 47959.1355,
+      "Z": 61785.0
+    },
+    "Rotation": 0.0,
+    "Type": {
+      "family_type": " NT1",
+      "family": " New Furniture_Team Table_NT1"
+    }
+  },
+  {
+    "ELID": 12088515,
+    "Point": {
+      "X": -3466.3939,
+      "Y": 2651.3268,
+      "Z": 61785.0
+    },
+    "Rotation": 70.0,
+    "Type": {
+      "family_type": " EC4A",
+      "family": " Existing Furniture_Aalto Stool 60_EC4"
+    }
+  },
+  {
+    "ELID": 12088516,
+    "Point": {
+      "X": -7561.6686,
+      "Y": 16559.5154,
+      "Z": 61785.0
+    },
+    "Rotation": 105.0,
+    "Type": {
+      "family_type": " EC4A",
+      "family": " Existing Furniture_Aalto Stool 60_EC4"
+    }
+  },
+  {
+    "ELID": 12088517,
+    "Point": {
+      "X": -11738.3913,
+      "Y": 14032.7685,
+      "Z": 61785.0
+    },
+    "Rotation": 90.0,
+    "Type": {
+      "family_type": " EC4A",
+      "family": " Existing Furniture_Aalto Stool 60_EC4"
+    }
+  },
+  {
+    "ELID": 12088519,
+    "Point": {
+      "X": -25634.9524,
+      "Y": 9656.8757,
+      "Z": 61785.0
+    },
+    "Rotation": 90.0,
+    "Type": {
+      "family_type": " EC4A",
+      "family": " Existing Furniture_Aalto Stool 60_EC4"
+    }
+  },
+  {
+    "ELID": 12088521,
+    "Point": {
+      "X": -3996.0,
+      "Y": 33426.6654,
+      "Z": 61785.0
+    },
+    "Rotation": 90.0,
+    "Type": {
+      "family_type": " EC4A",
+      "family": " Existing Furniture_Aalto Stool 60_EC4"
+    }
+  },
+  {
+    "ELID": 12088524,
+    "Point": {
+      "X": -1741.2025,
+      "Y": 34734.796,
+      "Z": 61785.0
+    },
+    "Rotation": 105.0,
+    "Type": {
+      "family_type": " EC4A",
+      "family": " Existing Furniture_Aalto Stool 60_EC4"
+    }
+  },
+  {
+    "ELID": 12088525,
+    "Point": {
+      "X": -7223.0443,
+      "Y": 42032.8757,
+      "Z": 61785.0
+    },
+    "Rotation": 90.0,
+    "Type": {
+      "family_type": " EC4A",
+      "family": " Existing Furniture_Aalto Stool 60_EC4"
+    }
+  },
+  {
+    "ELID": 12088618,
+    "Point": {
+      "X": -2906.159,
+      "Y": 3662.7274,
+      "Z": 61785.0
+    },
+    "Rotation": 270.0,
+    "Type": {
+      "family_type": " NT1",
+      "family": " New Furniture_Team Table_NT1"
+    }
+  },
+  {
+    "ELID": 12088619,
+    "Point": {
+      "X": -1406.159,
+      "Y": 3662.7274,
+      "Z": 61785.0
+    },
+    "Rotation": 270.0,
+    "Type": {
+      "family_type": " NT1",
+      "family": " New Furniture_Team Table_NT1"
+    }
+  },
+  {
+    "ELID": 12104374,
+    "Point": {
+      "X": -3535.6332,
+      "Y": 31230.2915,
+      "Z": 61785.0
+    },
+    "Rotation": 180.0,
+    "Type": {
+      "family_type": " Workstatio_3",
+      "family": " Workstatio_3"
+    }
+  },
+  {
+    "ELID": 12104375,
+    "Point": {
+      "X": -2836.9809,
+      "Y": 32024.9918,
+      "Z": 61785.0
+    },
+    "Rotation": 270.0,
+    "Type": {
+      "family_type": " Workstatio_3",
+      "family": " Workstatio_3"
+    }
+  },
+  {
+    "ELID": 12104376,
+    "Point": {
+      "X": -2843.1332,
+      "Y": 30524.9918,
+      "Z": 61785.0
+    },
+    "Rotation": 270.0,
+    "Type": {
+      "family_type": " Workstatio_3",
+      "family": " Workstatio_3"
+    }
+  },
+  {
+    "ELID": 12104377,
+    "Point": {
+      "X": -2836.9809,
+      "Y": 30524.9918,
+      "Z": 61785.0
+    },
+    "Rotation": 270.0,
+    "Type": {
+      "family_type": " Workstatio_3",
+      "family": " Workstatio_3"
+    }
+  },
+  {
+    "ELID": 12104384,
+    "Point": {
+      "X": -6445.0736,
+      "Y": 6383.2253,
+      "Z": 61785.0
+    },
+    "Rotation": 270.0,
+    "Type": {
+      "family_type": " Workstatio_3",
+      "family": " Workstatio_3"
+    }
+  },
+  {
+    "ELID": 12104388,
+    "Point": {
+      "X": -9074.3618,
+      "Y": 21301.7134,
+      "Z": 61785.0
+    },
+    "Rotation": 360.0,
+    "Type": {
+      "family_type": " Workstatio_3",
+      "family": " Workstatio_3"
+    }
+  },
+  {
+    "ELID": 12104389,
+    "Point": {
+      "X": -7574.3618,
+      "Y": 21301.7134,
+      "Z": 61785.0
+    },
+    "Rotation": 360.0,
+    "Type": {
+      "family_type": " Workstatio_3",
+      "family": " Workstatio_3"
+    }
+  },
+  {
+    "ELID": 12104390,
+    "Point": {
+      "X": -8279.6615,
+      "Y": 22007.013,
+      "Z": 61785.0
+    },
+    "Rotation": 90.0,
+    "Type": {
+      "family_type": " Workstatio_3",
+      "family": " Workstatio_3"
+    }
+  },
+  {
+    "ELID": 12104391,
+    "Point": {
+      "X": -7574.3618,
+      "Y": 21304.7134,
+      "Z": 61785.0
+    },
+    "Rotation": 360.0,
+    "Type": {
+      "family_type": " Workstatio_3",
+      "family": " Workstatio_3"
+    }
+  },
+  {
+    "ELID": 12104394,
+    "Point": {
+      "X": -9813.5723,
+      "Y": 17299.8496,
+      "Z": 61785.0
+    },
+    "Rotation": 90.0,
+    "Type": {
+      "family_type": " Workstatio_3",
+      "family": " Workstatio_3"
+    }
+  },
+  {
+    "ELID": 12104395,
+    "Point": {
+      "X": -9816.5723,
+      "Y": 17299.8496,
+      "Z": 61785.0
+    },
+    "Rotation": 90.0,
+    "Type": {
+      "family_type": " Workstatio_3",
+      "family": " Workstatio_3"
+    }
+  },
+  {
+    "ELID": 12104396,
+    "Point": {
+      "X": -10515.738,
+      "Y": 18094.5499,
+      "Z": 61785.0
+    },
+    "Rotation": 4.1347210859E-14,
+    "Type": {
+      "family_type": " Workstatio_3",
+      "family": " Workstatio_3"
+    }
+  },
+  {
+    "ELID": 12104398,
+    "Point": {
+      "X": -2134.7574,
+      "Y": 29727.2154,
+      "Z": 61785.0
+    },
+    "Rotation": 6.55599935608E-16,
+    "Type": {
+      "family_type": " Workstatio_3",
+      "family": " Workstatio_3"
+    }
+  },
+  {
+    "ELID": 12104424,
+    "Point": {
+      "X": -9699.3355,
+      "Y": 26735.4604,
+      "Z": 61785.0
+    },
+    "Rotation": 300.0,
+    "Type": {
+      "family_type": " Workstatio_3",
+      "family": " Workstatio_3"
+    }
+  },
+  {
+    "ELID": 12104425,
+    "Point": {
+      "X": -8951.5052,
+      "Y": 25435.1696,
+      "Z": 61785.0
+    },
+    "Rotation": 300.0,
+    "Type": {
+      "family_type": " Workstatio_3",
+      "family": " Workstatio_3"
+    }
+  },
+  {
+    "ELID": 12104426,
+    "Point": {
+      "X": -9696.7376,
+      "Y": 26736.9603,
+      "Z": 61785.0
+    },
+    "Rotation": 300.0,
+    "Type": {
+      "family_type": " Workstatio_3",
+      "family": " Workstatio_3"
+    }
+  },
+  {
+    "ELID": 12104427,
+    "Point": {
+      "X": -8948.9073,
+      "Y": 25436.6696,
+      "Z": 61785.0
+    },
+    "Rotation": 300.0,
+    "Type": {
+      "family_type": " Workstatio_3",
+      "family": " Workstatio_3"
+    }
+  },
+  {
+    "ELID": 12104443,
+    "Point": {
+      "X": -8926.3373,
+      "Y": 18094.5499,
+      "Z": 61785.0
+    },
+    "Rotation": 180.0,
+    "Type": {
+      "family_type": " Workstatio_3",
+      "family": " Workstatio_3"
+    }
+  },
+  {
+    "ELID": 12104452,
+    "Point": {
+      "X": -9088.6888,
+      "Y": 41840.3447,
+      "Z": 61785.0
+    },
+    "Rotation": 180.0,
+    "Type": {
+      "family_type": " Workstatio_3",
+      "family": " Workstatio_3"
+    }
+  },
+  {
+    "ELID": 12104460,
+    "Point": {
+      "X": -9883.9103,
+      "Y": 42636.2225,
+      "Z": 61785.0
+    },
+    "Rotation": 270.089797798,
+    "Type": {
+      "family_type": " Workstatio_3",
+      "family": " Workstatio_3"
+    }
+  },
+  {
+    "ELID": 12104461,
+    "Point": {
+      "X": -9884.6356,
+      "Y": 42636.2195,
+      "Z": 61785.0
+    },
+    "Rotation": 270.089797798,
+    "Type": {
+      "family_type": " Workstatio_3",
+      "family": " Workstatio_3"
+    }
+  },
+  {
+    "ELID": 12104486,
+    "Point": {
+      "X": -3634.7574,
+      "Y": 29727.2154,
+      "Z": 61785.0
+    },
+    "Rotation": 6.55599935608E-16,
+    "Type": {
+      "family_type": " Workstatio_3",
+      "family": " Workstatio_3"
+    }
+  },
+  {
+    "ELID": 12104488,
+    "Point": {
+      "X": -8591.3286,
+      "Y": 24721.9248,
+      "Z": 61785.0
+    },
+    "Rotation": 29.9999999999,
+    "Type": {
+      "family_type": " Workstatio_3",
+      "family": " Workstatio_3"
+    }
+  },
+  {
+    "ELID": 12104505,
+    "Point": {
+      "X": -6779.6615,
+      "Y": 21346.4137,
+      "Z": 61785.0
+    },
+    "Rotation": 270.0,
+    "Type": {
+      "family_type": " Workstatio_3",
+      "family": " Workstatio_3"
+    }
+  },
+  {
+    "ELID": 12105379,
+    "Point": {
+      "X": -6221.5569,
+      "Y": 41513.5306,
+      "Z": 61785.0
+    },
+    "Rotation": 0.0,
+    "Type": {
+      "family_type": " NT1",
+      "family": " New Furniture_Team Table_NT1"
+    }
+  },
+  {
+    "ELID": 12105380,
+    "Point": {
+      "X": -1954.4939,
+      "Y": 46920.359,
+      "Z": 61785.0
+    },
+    "Rotation": 165.0,
+    "Type": {
+      "family_type": " EC4A",
+      "family": " Existing Furniture_Aalto Stool 60_EC4"
+    }
+  },
+  {
+    "ELID": 12105383,
+    "Point": {
+      "X": -5958.7483,
+      "Y": 38709.7242,
+      "Z": 61785.0
+    },
+    "Rotation": 3.35771157722E-11,
+    "Type": {
+      "family_type": " Workstatio_3",
+      "family": " Workstatio_3"
+    }
+  },
+  {
+    "ELID": 12105384,
+    "Point": {
+      "X": -3606.3423,
+      "Y": 44542.6059,
+      "Z": 61785.0
+    },
+    "Rotation": 3.24543799697E-11,
+    "Type": {
+      "family_type": " Workstatio_3",
+      "family": " Workstatio_3"
+    }
+  },
+  {
+    "ELID": 12105385,
+    "Point": {
+      "X": -5167.1108,
+      "Y": 38000.7722,
+      "Z": 61785.0
+    },
+    "Rotation": 270.0,
+    "Type": {
+      "family_type": " Workstatio_3",
+      "family": " Workstatio_3"
+    }
+  },
+  {
+    "ELID": 12105387,
+    "Point": {
+      "X": -7458.7483,
+      "Y": 38709.7242,
+      "Z": 61785.0
+    },
+    "Rotation": 3.24681808113E-11,
+    "Type": {
+      "family_type": " Workstatio_3",
+      "family": " Workstatio_3"
+    }
+  },
+  {
+    "ELID": 12105388,
+    "Point": {
+      "X": -2811.642,
+      "Y": 43747.9056,
+      "Z": 61785.0
+    },
+    "Rotation": 90.0,
+    "Type": {
+      "family_type": " Workstatio_3",
+      "family": " Workstatio_3"
+    }
+  },
+  {
+    "ELID": 12105389,
+    "Point": {
+      "X": -3606.3423,
+      "Y": 44542.6059,
+      "Z": 61785.0
+    },
+    "Rotation": 360.0,
+    "Type": {
+      "family_type": " Workstatio_3",
+      "family": " Workstatio_3"
+    }
+  },
+  {
+    "ELID": 12105390,
+    "Point": {
+      "X": -8164.048,
+      "Y": 37911.3716,
+      "Z": 61785.0
+    },
+    "Rotation": 90.0,
+    "Type": {
+      "family_type": " Workstatio_3",
+      "family": " Workstatio_3"
+    }
+  },
+  {
+    "ELID": 12105391,
+    "Point": {
+      "X": -2811.642,
+      "Y": 40747.9056,
+      "Z": 61785.0
+    },
+    "Rotation": 90.0,
+    "Type": {
+      "family_type": " Workstatio_3",
+      "family": " Workstatio_3"
+    }
+  },
+  {
+    "ELID": 12105393,
+    "Point": {
+      "X": -2106.3423,
+      "Y": 41542.6059,
+      "Z": 61785.0
+    },
+    "Rotation": 360.0,
+    "Type": {
+      "family_type": " Workstatio_3",
+      "family": " Workstatio_3"
+    }
+  },
+  {
+    "ELID": 12105394,
+    "Point": {
+      "X": -2811.642,
+      "Y": 42337.3063,
+      "Z": 61785.0
+    },
+    "Rotation": 270.0,
+    "Type": {
+      "family_type": " Workstatio_3",
+      "family": " Workstatio_3"
+    }
+  },
+  {
+    "ELID": 12105544,
+    "Point": {
+      "X": -9841.0407,
+      "Y": 44844.5944,
+      "Z": 61785.0
+    },
+    "Rotation": 180.0,
+    "Type": {
+      "family_type": " Workstatio_3",
+      "family": " Workstatio_3"
+    }
+  },
+  {
+    "ELID": 12105596,
+    "Point": {
+      "X": -9883.9103,
+      "Y": 44136.2225,
+      "Z": 61785.0
+    },
+    "Rotation": 270.089797798,
+    "Type": {
+      "family_type": " Workstatio_3",
+      "family": " Workstatio_3"
+    }
+  },
+  {
+    "ELID": 12105597,
+    "Point": {
+      "X": -9884.6356,
+      "Y": 44136.2195,
+      "Z": 61785.0
+    },
+    "Rotation": 270.089797798,
+    "Type": {
+      "family_type": " Workstatio_3",
+      "family": " Workstatio_3"
+    }
+  },
+  {
+    "ELID": 12106695,
+    "Point": {
+      "X": -2750.2959,
+      "Y": 13064.152,
+      "Z": 61785.0
+    },
+    "Rotation": 90.0,
+    "Type": {
+      "family_type": " Workstatio_3",
+      "family": " Workstatio_3"
+    }
+  },
+  {
+    "ELID": 12106698,
+    "Point": {
+      "X": -3544.9962,
+      "Y": 12365.4997,
+      "Z": 61785.0
+    },
+    "Rotation": 360.0,
+    "Type": {
+      "family_type": " Workstatio_3",
+      "family": " Workstatio_3"
+    }
+  },
+  {
+    "ELID": 12106703,
+    "Point": {
+      "X": -2750.2959,
+      "Y": 13064.152,
+      "Z": 61785.0
+    },
+    "Rotation": 90.0,
+    "Type": {
+      "family_type": " Workstatio_3",
+      "family": " Workstatio_3"
+    }
+  },
+  {
+    "ELID": 12106725,
+    "Point": {
+      "X": -7242.8501,
+      "Y": 5588.525,
+      "Z": 61785.0
+    },
+    "Rotation": 360.0,
+    "Type": {
+      "family_type": " Workstatio_3",
+      "family": " Workstatio_3"
+    }
+  },
+  {
+    "ELID": 12106726,
+    "Point": {
+      "X": -7242.8501,
+      "Y": 5588.525,
+      "Z": 61785.0
+    },
+    "Rotation": 360.0,
+    "Type": {
+      "family_type": " Workstatio_3",
+      "family": " Workstatio_3"
+    }
+  },
+  {
+    "ELID": 12109814,
+    "Point": {
+      "X": -8742.8501,
+      "Y": 5588.525,
+      "Z": 61785.0
+    },
+    "Rotation": 360.0,
+    "Type": {
+      "family_type": " Workstatio_3",
+      "family": " Workstatio_3"
+    }
+  },
+  {
+    "ELID": 12109815,
+    "Point": {
+      "X": -8742.8501,
+      "Y": 5588.525,
+      "Z": 61785.0
+    },
+    "Rotation": 360.0,
+    "Type": {
+      "family_type": " Workstatio_3",
+      "family": " Workstatio_3"
+    }
+  },
+  {
+    "ELID": 12109823,
+    "Point": {
+      "X": -10242.8501,
+      "Y": 5588.525,
+      "Z": 61785.0
+    },
+    "Rotation": 360.0,
+    "Type": {
+      "family_type": " Workstatio_3",
+      "family": " Workstatio_3"
+    }
+  },
+  {
+    "ELID": 12109824,
+    "Point": {
+      "X": -10242.8501,
+      "Y": 5588.525,
+      "Z": 61785.0
+    },
+    "Rotation": 360.0,
+    "Type": {
+      "family_type": " Workstatio_3",
+      "family": " Workstatio_3"
+    }
+  },
+  {
+    "ELID": 12109842,
+    "Point": {
+      "X": -6445.0736,
+      "Y": 4883.2253,
+      "Z": 61785.0
+    },
+    "Rotation": 270.0,
+    "Type": {
+      "family_type": " Workstatio_3",
+      "family": " Workstatio_3"
+    }
+  },
+  {
+    "ELID": 12111720,
+    "Point": {
+      "X": -9020.5013,
+      "Y": 8623.2969,
+      "Z": 61785.0
+    },
+    "Rotation": 310.0,
+    "Type": {
+      "family_type": " NS1",
+      "family": " New Furniture_Storage Caddy_NS1"
+    }
+  },
+  {
+    "ELID": 12111721,
+    "Point": {
+      "X": -6515.2773,
+      "Y": 3828.525,
+      "Z": 61797.0
+    },
+    "Rotation": 90.0,
+    "Type": {
+      "family_type": " NS1",
+      "family": " New Furniture_Storage Caddy_NS1"
+    }
+  },
+  {
+    "ELID": 12112131,
+    "Point": {
+      "X": -63409.9524,
+      "Y": 30002.3499,
+      "Z": 61785.0
+    },
+    "Rotation": 270.0,
+    "Type": {
+      "family_type": " NS1",
+      "family": " New Furniture_Storage Caddy_NS1"
+    }
+  },
+  {
+    "ELID": 12112132,
+    "Point": {
+      "X": -63409.9524,
+      "Y": 30552.3499,
+      "Z": 61785.0
+    },
+    "Rotation": 90.0,
+    "Type": {
+      "family_type": " NS1",
+      "family": " New Furniture_Storage Caddy_NS1"
+    }
+  },
+  {
+    "ELID": 12112177,
+    "Point": {
+      "X": -18165.367,
+      "Y": 8224.7953,
+      "Z": 61797.0
+    },
+    "Rotation": 90.0,
+    "Type": {
+      "family_type": " NS1",
+      "family": " New Furniture_Storage Caddy_NS1"
+    }
+  },
+  {
+    "ELID": 12112676,
+    "Point": {
+      "X": -986.4213,
+      "Y": 5615.4997,
+      "Z": 61785.0
+    },
+    "Rotation": 180.0,
+    "Type": {
+      "family_type": " NS1",
+      "family": " New Furniture_Storage Caddy_NS1"
+    }
+  },
+  {
+    "ELID": 12114093,
+    "Point": {
+      "X": -9152.7809,
+      "Y": 9882.9788,
+      "Z": 61785.0
+    },
+    "Rotation": 40.0,
+    "Type": {
+      "family_type": " Workstatio_3",
+      "family": " Workstatio_3"
+    }
+  },
+  {
+    "ELID": 12114094,
+    "Point": {
+      "X": -9152.7809,
+      "Y": 9882.9788,
+      "Z": 61785.0
+    },
+    "Rotation": 40.0,
+    "Type": {
+      "family_type": " Workstatio_3",
+      "family": " Workstatio_3"
+    }
+  },
+  {
+    "ELID": 12114095,
+    "Point": {
+      "X": -9724.1611,
+      "Y": 9461.886,
+      "Z": 61785.0
+    },
+    "Rotation": 310.0,
+    "Type": {
+      "family_type": " Workstatio_3",
+      "family": " Workstatio_3"
+    }
+  },
+  {
+    "ELID": 12114096,
+    "Point": {
+      "X": -8003.7142,
+      "Y": 10847.1602,
+      "Z": 61785.0
+    },
+    "Rotation": 40.0,
+    "Type": {
+      "family_type": " Workstatio_3",
+      "family": " Workstatio_3"
+    }
+  },
+  {
+    "ELID": 12114097,
+    "Point": {
+      "X": -6881.7585,
+      "Y": 10751.1853,
+      "Z": 61785.0
+    },
+    "Rotation": 130.0,
+    "Type": {
+      "family_type": " Workstatio_3",
+      "family": " Workstatio_3"
+    }
+  },
+  {
+    "ELID": 12116189,
+    "Point": {
+      "X": -7188.8608,
+      "Y": 46447.5469,
+      "Z": 61785.0
+    },
+    "Rotation": 110.0,
+    "Type": {
+      "family_type": " Workstatio_3",
+      "family": " Workstatio_3"
+    }
+  },
+  {
+    "ELID": 12116190,
+    "Point": {
+      "X": -7732.4678,
+      "Y": 47941.095,
+      "Z": 61785.0
+    },
+    "Rotation": 290.0,
+    "Type": {
+      "family_type": " Workstatio_3",
+      "family": " Workstatio_3"
+    }
+  },
+  {
+    "ELID": 12116191,
+    "Point": {
+      "X": -7188.8608,
+      "Y": 46447.5469,
+      "Z": 61785.0
+    },
+    "Rotation": 110.0,
+    "Type": {
+      "family_type": " Workstatio_3",
+      "family": " Workstatio_3"
+    }
+  },
+  {
+    "ELID": 12116192,
+    "Point": {
+      "X": -7732.4678,
+      "Y": 47941.095,
+      "Z": 61785.0
+    },
+    "Rotation": 290.0,
+    "Type": {
+      "family_type": " Workstatio_3",
+      "family": " Workstatio_3"
+    }
+  },
+  {
+    "ELID": 12116235,
+    "Point": {
+      "X": -10588.6888,
+      "Y": 41840.3447,
+      "Z": 61785.0
+    },
+    "Rotation": 180.0,
+    "Type": {
+      "family_type": " Workstatio_3",
+      "family": " Workstatio_3"
+    }
+  },
+  {
+    "ELID": 12116265,
+    "Point": {
+      "X": -3606.3423,
+      "Y": 41542.6059,
+      "Z": 61785.0
+    },
+    "Rotation": 360.0,
+    "Type": {
+      "family_type": " Workstatio_3",
+      "family": " Workstatio_3"
+    }
+  },
+  {
+    "ELID": 12116321,
+    "Point": {
+      "X": -2811.642,
+      "Y": 39247.9056,
+      "Z": 61785.0
+    },
+    "Rotation": 90.0,
+    "Type": {
+      "family_type": " Workstatio_3",
+      "family": " Workstatio_3"
+    }
+  },
+  {
+    "ELID": 12116336,
+    "Point": {
+      "X": -2805.4897,
+      "Y": 37747.9056,
+      "Z": 61785.0
+    },
+    "Rotation": 90.0,
+    "Type": {
+      "family_type": " Workstatio_3",
+      "family": " Workstatio_3"
+    }
+  },
+  {
+    "ELID": 12116337,
+    "Point": {
+      "X": -2811.642,
+      "Y": 37837.3063,
+      "Z": 61785.0
+    },
+    "Rotation": 270.0,
+    "Type": {
+      "family_type": " Workstatio_3",
+      "family": " Workstatio_3"
+    }
+  },
+  {
+    "ELID": 12116338,
+    "Point": {
+      "X": -2856.3423,
+      "Y": 37042.6059,
+      "Z": 61785.0
+    },
+    "Rotation": 2.16933318275E-13,
+    "Type": {
+      "family_type": " Workstatio_3",
+      "family": " Workstatio_3"
+    }
+  },
+  {
+    "ELID": 12116380,
+    "Point": {
+      "X": -2100.19,
+      "Y": 38542.6059,
+      "Z": 61785.0
+    },
+    "Rotation": 360.0,
+    "Type": {
+      "family_type": " Workstatio_3",
+      "family": " Workstatio_3"
+    }
+  },
+  {
+    "ELID": 12116473,
+    "Point": {
+      "X": -8958.7483,
+      "Y": 38709.7242,
+      "Z": 61785.0
+    },
+    "Rotation": 3.35771157722E-11,
+    "Type": {
+      "family_type": " Workstatio_3",
+      "family": " Workstatio_3"
+    }
+  },
+  {
+    "ELID": 12116474,
+    "Point": {
+      "X": -8167.1108,
+      "Y": 38000.7722,
+      "Z": 61785.0
+    },
+    "Rotation": 270.0,
+    "Type": {
+      "family_type": " Workstatio_3",
+      "family": " Workstatio_3"
+    }
+  },
+  {
+    "ELID": 12116475,
+    "Point": {
+      "X": -10458.7483,
+      "Y": 38709.7242,
+      "Z": 61785.0
+    },
+    "Rotation": 3.24681808113E-11,
+    "Type": {
+      "family_type": " Workstatio_3",
+      "family": " Workstatio_3"
+    }
+  },
+  {
+    "ELID": 12116476,
+    "Point": {
+      "X": -11164.048,
+      "Y": 37911.3716,
+      "Z": 61785.0
+    },
+    "Rotation": 90.0,
+    "Type": {
+      "family_type": " Workstatio_3",
+      "family": " Workstatio_3"
+    }
+  },
+  {
+    "ELID": 12116490,
+    "Point": {
+      "X": -11958.7483,
+      "Y": 38709.7242,
+      "Z": 61785.0
+    },
+    "Rotation": 3.35771157722E-11,
+    "Type": {
+      "family_type": " Workstatio_3",
+      "family": " Workstatio_3"
+    }
+  },
+  {
+    "ELID": 12116491,
+    "Point": {
+      "X": -13458.7483,
+      "Y": 38709.7242,
+      "Z": 61785.0
+    },
+    "Rotation": 3.24681808113E-11,
+    "Type": {
+      "family_type": " Workstatio_3",
+      "family": " Workstatio_3"
+    }
+  },
+  {
+    "ELID": 12116505,
+    "Point": {
+      "X": -13458.7483,
+      "Y": 38709.7242,
+      "Z": 61785.0
+    },
+    "Rotation": 2.16933318275E-13,
+    "Type": {
+      "family_type": " Workstatio_3",
+      "family": " Workstatio_3"
+    }
+  },
+  {
+    "ELID": 12116592,
+    "Point": {
+      "X": -9801.707,
+      "Y": 34976.2306,
+      "Z": 61785.0
+    },
+    "Rotation": 90.0,
+    "Type": {
+      "family_type": " Workstatio_3",
+      "family": " Workstatio_3"
+    }
+  },
+  {
+    "ELID": 12116593,
+    "Point": {
+      "X": -9007.0066,
+      "Y": 35020.9309,
+      "Z": 61785.0
+    },
+    "Rotation": 180.0,
+    "Type": {
+      "family_type": " Workstatio_3",
+      "family": " Workstatio_3"
+    }
+  },
+  {
+    "ELID": 12116594,
+    "Point": {
+      "X": -9801.707,
+      "Y": 33476.2306,
+      "Z": 61785.0
+    },
+    "Rotation": 90.0,
+    "Type": {
+      "family_type": " Workstatio_3",
+      "family": " Workstatio_3"
+    }
+  },
+  {
+    "ELID": 12116595,
+    "Point": {
+      "X": -9795.5546,
+      "Y": 34226.2306,
+      "Z": 61785.0
+    },
+    "Rotation": 90.0,
+    "Type": {
+      "family_type": " Workstatio_3",
+      "family": " Workstatio_3"
+    }
+  },
+  {
+    "ELID": 12116596,
+    "Point": {
+      "X": -9801.707,
+      "Y": 32065.6313,
+      "Z": 61785.0
+    },
+    "Rotation": 270.0,
+    "Type": {
+      "family_type": " Workstatio_3",
+      "family": " Workstatio_3"
+    }
+  },
+  {
+    "ELID": 12116648,
+    "Point": {
+      "X": -9795.5546,
+      "Y": 32726.2306,
+      "Z": 61785.0
+    },
+    "Rotation": 90.0,
+    "Type": {
+      "family_type": " Workstatio_3",
+      "family": " Workstatio_3"
+    }
+  },
+  {
+    "ELID": 12116656,
+    "Point": {
+      "X": -9795.5546,
+      "Y": 31226.2306,
+      "Z": 61785.0
+    },
+    "Rotation": 90.0,
+    "Type": {
+      "family_type": " Workstatio_3",
+      "family": " Workstatio_3"
+    }
+  },
+  {
+    "ELID": 12116670,
+    "Point": {
+      "X": -6791.9023,
+      "Y": 30565.6313,
+      "Z": 61785.0
+    },
+    "Rotation": 270.0,
+    "Type": {
+      "family_type": " Workstatio_3",
+      "family": " Workstatio_3"
+    }
+  },
+  {
+    "ELID": 12116671,
+    "Point": {
+      "X": -7590.255,
+      "Y": 30520.9309,
+      "Z": 61785.0
+    },
+    "Rotation": 360.0,
+    "Type": {
+      "family_type": " Workstatio_3",
+      "family": " Workstatio_3"
+    }
+  },
+  {
+    "ELID": 12116672,
+    "Point": {
+      "X": -6791.9023,
+      "Y": 32065.6313,
+      "Z": 61785.0
+    },
+    "Rotation": 270.0,
+    "Type": {
+      "family_type": " Workstatio_3",
+      "family": " Workstatio_3"
+    }
+  },
+  {
+    "ELID": 12116687,
+    "Point": {
+      "X": -9090.255,
+      "Y": 30520.9309,
+      "Z": 61785.0
+    },
+    "Rotation": 360.0,
+    "Type": {
+      "family_type": " Workstatio_3",
+      "family": " Workstatio_3"
+    }
+  },
+  {
+    "ELID": 12116806,
+    "Point": {
+      "X": -6795.5546,
+      "Y": 31318.7074,
+      "Z": 61785.0
+    },
+    "Rotation": 270.0,
+    "Type": {
+      "family_type": " Workstatio_3",
+      "family": " Workstatio_3"
+    }
+  },
+  {
+    "ELID": 12117239,
+    "Point": {
+      "X": -3535.6332,
+      "Y": 21295.2998,
+      "Z": 61785.0
+    },
+    "Rotation": 180.0,
+    "Type": {
+      "family_type": " Workstatio_3",
+      "family": " Workstatio_3"
+    }
+  },
+  {
+    "ELID": 12117240,
+    "Point": {
+      "X": -2836.9809,
+      "Y": 20500.5994,
+      "Z": 61785.0
+    },
+    "Rotation": 90.0,
+    "Type": {
+      "family_type": " Workstatio_3",
+      "family": " Workstatio_3"
+    }
+  },
+  {
+    "ELID": 12117241,
+    "Point": {
+      "X": -2843.1332,
+      "Y": 22000.5994,
+      "Z": 61785.0
+    },
+    "Rotation": 90.0,
+    "Type": {
+      "family_type": " Workstatio_3",
+      "family": " Workstatio_3"
+    }
+  },
+  {
+    "ELID": 12117242,
+    "Point": {
+      "X": -2836.9809,
+      "Y": 22000.5994,
+      "Z": 61785.0
+    },
+    "Rotation": 90.0,
+    "Type": {
+      "family_type": " Workstatio_3",
+      "family": " Workstatio_3"
+    }
+  },
+  {
+    "ELID": 12117243,
+    "Point": {
+      "X": -2134.7574,
+      "Y": 22798.3759,
+      "Z": 61785.0
+    },
+    "Rotation": 360.0,
+    "Type": {
+      "family_type": " Workstatio_3",
+      "family": " Workstatio_3"
+    }
+  },
+  {
+    "ELID": 12117244,
+    "Point": {
+      "X": -3634.7574,
+      "Y": 22798.3759,
+      "Z": 61785.0
+    },
+    "Rotation": 360.0,
+    "Type": {
+      "family_type": " Workstatio_3",
+      "family": " Workstatio_3"
+    }
+  },
+  {
+    "ELID": 12117246,
+    "Point": {
+      "X": -2791.642,
+      "Y": 18095.2998,
+      "Z": 61785.0
+    },
+    "Rotation": 0.0,
+    "Type": {
+      "family_type": " NT1",
+      "family": " New Furniture_Team Table_NT1"
+    }
+  },
+  {
+    "ELID": 12117247,
+    "Point": {
+      "X": -3799.9523,
+      "Y": 18690.7956,
+      "Z": 61785.0
+    },
+    "Rotation": 270.0,
+    "Type": {
+      "family_type": " EC4A",
+      "family": " Existing Furniture_Aalto Stool 60_EC4"
+    }
+  },
+  {
+    "ELID": 12117248,
+    "Point": {
+      "X": -1763.9552,
+      "Y": 17540.5153,
+      "Z": 61785.0
+    },
+    "Rotation": 255.0,
+    "Type": {
+      "family_type": " EC4A",
+      "family": " Existing Furniture_Aalto Stool 60_EC4"
+    }
+  },
+  {
+    "ELID": 12117310,
+    "Point": {
+      "X": -2750.2959,
+      "Y": 14564.152,
+      "Z": 61785.0
+    },
+    "Rotation": 90.0,
+    "Type": {
+      "family_type": " Workstatio_3",
+      "family": " Workstatio_3"
+    }
+  },
+  {
+    "ELID": 12117311,
+    "Point": {
+      "X": -2750.2959,
+      "Y": 14564.152,
+      "Z": 61785.0
+    },
+    "Rotation": 90.0,
+    "Type": {
+      "family_type": " Workstatio_3",
+      "family": " Workstatio_3"
+    }
+  },
+  {
+    "ELID": 12117402,
+    "Point": {
+      "X": -2044.9962,
+      "Y": 12365.4997,
+      "Z": 61785.0
+    },
+    "Rotation": 360.0,
+    "Type": {
+      "family_type": " Workstatio_3",
+      "family": " Workstatio_3"
+    }
+  },
+  {
+    "ELID": 12117472,
+    "Point": {
+      "X": -8003.7142,
+      "Y": 10847.1602,
+      "Z": 61785.0
+    },
+    "Rotation": 40.0,
+    "Type": {
+      "family_type": " Workstatio_3",
+      "family": " Workstatio_3"
+    }
+  },
+  {
+    "ELID": 12117934,
+    "Point": {
+      "X": -5480.0,
+      "Y": 15501.3757,
+      "Z": 61785.0
+    },
+    "Rotation": 270.0,
+    "Type": {
+      "family_type": " NT1",
+      "family": " New Furniture_Team Table_NT1"
+    }
+  },
+  {
+    "ELID": 12118105,
+    "Point": {
+      "X": -1991.721,
+      "Y": 9365.4997,
+      "Z": 61785.0
+    },
+    "Rotation": 180.0,
+    "Type": {
+      "family_type": " Workstatio_3",
+      "family": " Workstatio_3"
+    }
+  },
+  {
+    "ELID": 12118106,
+    "Point": {
+      "X": -2790.0736,
+      "Y": 9320.7994,
+      "Z": 61785.0
+    },
+    "Rotation": 90.0,
+    "Type": {
+      "family_type": " Workstatio_3",
+      "family": " Workstatio_3"
+    }
+  },
+  {
+    "ELID": 12118107,
+    "Point": {
+      "X": -1991.721,
+      "Y": 6365.4997,
+      "Z": 61785.0
+    },
+    "Rotation": 180.0,
+    "Type": {
+      "family_type": " Workstatio_3",
+      "family": " Workstatio_3"
+    }
+  },
+  {
+    "ELID": 12118108,
+    "Point": {
+      "X": -2790.0736,
+      "Y": 7820.7994,
+      "Z": 61785.0
+    },
+    "Rotation": 90.0,
+    "Type": {
+      "family_type": " Workstatio_3",
+      "family": " Workstatio_3"
+    }
+  },
+  {
+    "ELID": 12118109,
+    "Point": {
+      "X": -2081.1216,
+      "Y": 9362.4369,
+      "Z": 61785.0
+    },
+    "Rotation": 360.0,
+    "Type": {
+      "family_type": " Workstatio_3",
+      "family": " Workstatio_3"
+    }
+  },
+  {
+    "ELID": 12118110,
+    "Point": {
+      "X": -2790.0736,
+      "Y": 6320.7994,
+      "Z": 61785.0
+    },
+    "Rotation": 90.0,
+    "Type": {
+      "family_type": " Workstatio_3",
+      "family": " Workstatio_3"
+    }
+  },
+  {
+    "ELID": 12118111,
+    "Point": {
+      "X": -2081.1216,
+      "Y": 6365.4997,
+      "Z": 61785.0
+    },
+    "Rotation": 360.0,
+    "Type": {
+      "family_type": " Workstatio_3",
+      "family": " Workstatio_3"
+    }
+  },
+  {
+    "ELID": 12118380,
+    "Point": {
+      "X": -9813.5723,
+      "Y": 15799.8496,
+      "Z": 61785.0
+    },
+    "Rotation": 90.0,
+    "Type": {
+      "family_type": " Workstatio_3",
+      "family": " Workstatio_3"
+    }
+  },
+  {
+    "ELID": 12118381,
+    "Point": {
+      "X": -9816.5723,
+      "Y": 15799.8496,
+      "Z": 61785.0
+    },
+    "Rotation": 90.0,
+    "Type": {
+      "family_type": " Workstatio_3",
+      "family": " Workstatio_3"
+    }
+  },
+  {
+    "ELID": 12118425,
+    "Point": {
+      "X": -6854.6476,
+      "Y": 11811.3416,
+      "Z": 61785.0
+    },
+    "Rotation": 40.0,
+    "Type": {
+      "family_type": " Workstatio_3",
+      "family": " Workstatio_3"
+    }
+  },
+  {
+    "ELID": 12118873,
+    "Point": {
+      "X": -49904.303,
+      "Y": 27112.0157,
+      "Z": 61785.0
+    },
+    "Rotation": 360.0,
+    "Type": {
+      "family_type": " ES1",
+      "family": " Existing Furniture_Metal Open Shelves_ES1"
+    }
+  },
+  {
+    "ELID": 12118978,
+    "Point": {
+      "X": -49957.753,
+      "Y": 32992.0157,
+      "Z": 61785.0
+    },
+    "Rotation": 360.0,
+    "Type": {
+      "family_type": " ES1",
+      "family": " Existing Furniture_Metal Open Shelves_ES1"
+    }
+  },
+  {
+    "ELID": 12119285,
+    "Point": {
+      "X": -54374.7484,
+      "Y": 28100.8634,
+      "Z": 61785.0
+    },
+    "Rotation": 180.0,
+    "Type": {
+      "family_type": " NS1",
+      "family": " New Furniture_Storage Caddy_NS1"
+    }
+  },
+  {
+    "ELID": 12119806,
+    "Point": {
+      "X": -950.2959,
+      "Y": 11615.4997,
+      "Z": 61785.0
+    },
+    "Rotation": 180.0,
+    "Type": {
+      "family_type": " NS1",
+      "family": " New Furniture_Storage Caddy_NS1"
+    }
+  },
+  {
+    "ELID": 12119836,
+    "Point": {
+      "X": -9813.5723,
+      "Y": 14299.8496,
+      "Z": 61785.0
+    },
+    "Rotation": 90.0,
+    "Type": {
+      "family_type": " Workstatio_3",
+      "family": " Workstatio_3"
+    }
+  },
+  {
+    "ELID": 12119871,
+    "Point": {
+      "X": -9866.6485,
+      "Y": 14794.5499,
+      "Z": 61785.0
+    },
+    "Rotation": 270.0,
+    "Type": {
+      "family_type": " NS1",
+      "family": " New Furniture_Storage Caddy_NS1"
+    }
+  },
+  {
+    "ELID": 12119898,
+    "Point": {
+      "X": -1040.0571,
+      "Y": 22795.4997,
+      "Z": 61785.0
+    },
+    "Rotation": 180.0,
+    "Type": {
+      "family_type": " NS1",
+      "family": " New Furniture_Storage Caddy_NS1"
+    }
+  },
+  {
+    "ELID": 12119957,
+    "Point": {
+      "X": -6780.9509,
+      "Y": 22331.7134,
+      "Z": 61785.0
+    },
+    "Rotation": 90.0,
+    "Type": {
+      "family_type": " NS1",
+      "family": " New Furniture_Storage Caddy_NS1"
+    }
+  },
+  {
+    "ELID": 12119973,
+    "Point": {
+      "X": -10205.4794,
+      "Y": 27593.1501,
+      "Z": 61785.0
+    },
+    "Rotation": 120.0,
+    "Type": {
+      "family_type": " NS1",
+      "family": " New Furniture_Storage Caddy_NS1"
+    }
+  },
+  {
+    "ELID": 12120117,
+    "Point": {
+      "X": 150.7648,
+      "Y": 49007.7862,
+      "Z": 61785.0
+    },
+    "Rotation": 270.0,
+    "Type": {
+      "family_type": " NS1",
+      "family": " New Furniture_Storage Caddy_NS1"
+    }
+  },
+  {
+    "ELID": 12120137,
+    "Point": {
+      "X": 150.7648,
+      "Y": 49556.4368,
+      "Z": 61785.0
+    },
+    "Rotation": 270.0,
+    "Type": {
+      "family_type": " NS1",
+      "family": " New Furniture_Storage Caddy_NS1"
+    }
+  },
+  {
+    "ELID": 12120207,
+    "Point": {
+      "X": -12829.5499,
+      "Y": 42400.8392,
+      "Z": 61785.0
+    },
+    "Rotation": 90.0,
+    "Type": {
+      "family_type": " NS1",
+      "family": " New Furniture_Storage Caddy_NS1"
+    }
+  },
+  {
+    "ELID": 12120208,
+    "Point": {
+      "X": -12829.5499,
+      "Y": 41850.8392,
+      "Z": 61785.0
+    },
+    "Rotation": 90.0,
+    "Type": {
+      "family_type": " NS1",
+      "family": " New Furniture_Storage Caddy_NS1"
+    }
+  },
+  {
+    "ELID": 12120209,
+    "Point": {
+      "X": -12829.5499,
+      "Y": 41300.8392,
+      "Z": 61785.0
+    },
+    "Rotation": 90.0,
+    "Type": {
+      "family_type": " NS1",
+      "family": " New Furniture_Storage Caddy_NS1"
+    }
+  },
+  {
+    "ELID": 12120333,
+    "Point": {
+      "X": -12829.5499,
+      "Y": 40750.8392,
+      "Z": 61785.0
+    },
+    "Rotation": 90.0,
+    "Type": {
+      "family_type": " NS1",
+      "family": " New Furniture_Storage Caddy_NS1"
+    }
+  },
+  {
+    "ELID": 12120393,
+    "Point": {
+      "X": -15561.1145,
+      "Y": 51228.9314,
+      "Z": 61785.0
+    },
+    "Rotation": 270.0,
+    "Type": {
+      "family_type": " NS1",
+      "family": " New Furniture_Storage Caddy_NS1"
+    }
+  },
+  {
+    "ELID": 12120498,
+    "Point": {
+      "X": 160.0477,
+      "Y": 18610.7956,
+      "Z": 61785.0
+    },
+    "Rotation": 90.0,
+    "Type": {
+      "family_type": " NS1",
+      "family": " New Furniture_Storage Caddy_NS1"
+    }
+  },
+  {
+    "ELID": 12120964,
+    "Point": {
+      "X": -9866.6485,
+      "Y": 14244.5499,
+      "Z": 61785.0
+    },
+    "Rotation": 270.0,
+    "Type": {
+      "family_type": " NS1",
+      "family": " New Furniture_Storage Caddy_NS1"
+    }
+  },
+  {
+    "ELID": 12121171,
+    "Point": {
+      "X": -2811.642,
+      "Y": 45247.9056,
+      "Z": 61785.0
+    },
+    "Rotation": 90.0,
+    "Type": {
+      "family_type": " Workstatio_3",
+      "family": " Workstatio_3"
+    }
+  },
+  {
+    "ELID": 12121314,
+    "Point": {
+      "X": -13019.5625,
+      "Y": 31372.9348,
+      "Z": 61785.0
+    },
+    "Rotation": 90.0,
+    "Type": {
+      "family_type": " NS1",
+      "family": " New Furniture_Storage Caddy_NS1"
+    }
+  },
+  {
+    "ELID": 12121331,
+    "Point": {
+      "X": -13019.5625,
+      "Y": 30822.9348,
+      "Z": 61785.0
+    },
+    "Rotation": 90.0,
+    "Type": {
+      "family_type": " NS1",
+      "family": " New Furniture_Storage Caddy_NS1"
+    }
+  },
+  {
+    "ELID": 12121534,
+    "Point": {
+      "X": -13205.9529,
+      "Y": 29617.5433,
+      "Z": 61785.0
+    },
+    "Rotation": 90.0,
+    "Type": {
+      "family_type": " NS1",
+      "family": " New Furniture_Storage Caddy_NS1"
+    }
+  },
+  {
+    "ELID": 12121535,
+    "Point": {
+      "X": -13205.9529,
+      "Y": 29067.5433,
+      "Z": 61785.0
+    },
+    "Rotation": 90.0,
+    "Type": {
+      "family_type": " NS1",
+      "family": " New Furniture_Storage Caddy_NS1"
+    }
+  },
+  {
+    "ELID": 12121578,
+    "Point": {
+      "X": -9801.707,
+      "Y": 30565.6313,
+      "Z": 61785.0
+    },
+    "Rotation": 270.0,
+    "Type": {
+      "family_type": " Workstatio_3",
+      "family": " Workstatio_3"
+    }
+  },
+  {
+    "ELID": 12121645,
+    "Point": {
+      "X": -11742.8501,
+      "Y": 5588.525,
+      "Z": 61785.0
+    },
+    "Rotation": 360.0,
+    "Type": {
+      "family_type": " Workstatio_3",
+      "family": " Workstatio_3"
+    }
+  },
+  {
+    "ELID": 12121646,
+    "Point": {
+      "X": -11742.8501,
+      "Y": 5588.525,
+      "Z": 61785.0
+    },
+    "Rotation": 360.0,
+    "Type": {
+      "family_type": " Workstatio_3",
+      "family": " Workstatio_3"
+    }
+  },
+  {
+    "ELID": 12122679,
+    "Point": {
+      "X": -52272.5248,
+      "Y": 31107.0157,
+      "Z": 61785.0
+    },
+    "Rotation": 3.27294979496E-11,
+    "Type": {
+      "family_type": " Workstatio_3",
+      "family": " Workstatio_3"
+    }
+  },
+  {
+    "ELID": 12122680,
+    "Point": {
+      "X": -52227.8245,
+      "Y": 30312.3154,
+      "Z": 61785.0
+    },
+    "Rotation": 90.0,
+    "Type": {
+      "family_type": " Workstatio_3",
+      "family": " Workstatio_3"
+    }
+  },
+  {
+    "ELID": 12122681,
+    "Point": {
+      "X": -53772.5248,
+      "Y": 31107.0157,
+      "Z": 61785.0
+    },
+    "Rotation": 3.27294979496E-11,
+    "Type": {
+      "family_type": " Workstatio_3",
+      "family": " Workstatio_3"
+    }
+  },
+  {
+    "ELID": 12122682,
+    "Point": {
+      "X": -53022.5248,
+      "Y": 31100.8634,
+      "Z": 61785.0
+    },
+    "Rotation": 1.31058341876E-13,
+    "Type": {
+      "family_type": " Workstatio_3",
+      "family": " Workstatio_3"
+    }
+  },
+  {
+    "ELID": 12122683,
+    "Point": {
+      "X": -55183.1242,
+      "Y": 31107.0157,
+      "Z": 61785.0
+    },
+    "Rotation": 180.0,
+    "Type": {
+      "family_type": " Workstatio_3",
+      "family": " Workstatio_3"
+    }
+  },
+  {
+    "ELID": 12122684,
+    "Point": {
+      "X": -54522.5248,
+      "Y": 31100.8634,
+      "Z": 61785.0
+    },
+    "Rotation": 1.31058341876E-13,
+    "Type": {
+      "family_type": " Workstatio_3",
+      "family": " Workstatio_3"
+    }
+  },
+  {
+    "ELID": 12122685,
+    "Point": {
+      "X": -56022.5248,
+      "Y": 31100.8634,
+      "Z": 61785.0
+    },
+    "Rotation": 1.31058341876E-13,
+    "Type": {
+      "family_type": " Workstatio_3",
+      "family": " Workstatio_3"
+    }
+  },
+  {
+    "ELID": 12122687,
+    "Point": {
+      "X": -56727.8245,
+      "Y": 28895.5637,
+      "Z": 61785.0
+    },
+    "Rotation": 270.0,
+    "Type": {
+      "family_type": " Workstatio_3",
+      "family": " Workstatio_3"
+    }
+  },
+  {
+    "ELID": 12122689,
+    "Point": {
+      "X": -56727.8245,
+      "Y": 30395.5637,
+      "Z": 61785.0
+    },
+    "Rotation": 270.0,
+    "Type": {
+      "family_type": " Workstatio_3",
+      "family": " Workstatio_3"
+    }
+  },
+  {
+    "ELID": 12122690,
+    "Point": {
+      "X": -55930.048,
+      "Y": 28100.8634,
+      "Z": 61785.0
+    },
+    "Rotation": 180.0,
+    "Type": {
+      "family_type": " Workstatio_3",
+      "family": " Workstatio_3"
+    }
+  },
+  {
+    "ELID": 12122691,
+    "Point": {
+      "X": -56683.1242,
+      "Y": 31107.0157,
+      "Z": 61785.0
+    },
+    "Rotation": 180.0,
+    "Type": {
+      "family_type": " Workstatio_3",
+      "family": " Workstatio_3"
+    }
+  },
+  {
+    "ELID": 12122709,
+    "Point": {
+      "X": -52227.8245,
+      "Y": 28812.3154,
+      "Z": 61785.0
+    },
+    "Rotation": 90.0,
+    "Type": {
+      "family_type": " Workstatio_3",
+      "family": " Workstatio_3"
+    }
+  },
+  {
+    "ELID": 12123766,
+    "Point": {
+      "X": -60896.3767,
+      "Y": 27228.2656,
+      "Z": 61785.0
+    },
+    "Rotation": 282.143165027,
+    "Type": {
+      "family_type": " Workstatio_3",
+      "family": " Workstatio_3"
+    }
+  },
+  {
+    "ELID": 12123767,
+    "Point": {
+      "X": -61418.726,
+      "Y": 26302.9833,
+      "Z": 61785.0
+    },
+    "Rotation": 192.143165027,
+    "Type": {
+      "family_type": " Workstatio_3",
+      "family": " Workstatio_3"
+    }
+  },
+  {
+    "ELID": 12123768,
+    "Point": {
+      "X": -60562.0381,
+      "Y": 25674.4277,
+      "Z": 61785.0
+    },
+    "Rotation": 102.143165027,
+    "Type": {
+      "family_type": " Workstatio_3",
+      "family": " Workstatio_3"
+    }
+  },
+  {
+    "ELID": 12123769,
+    "Point": {
+      "X": -59952.2884,
+      "Y": 26618.516,
+      "Z": 61785.0
+    },
+    "Rotation": 192.143165027,
+    "Type": {
+      "family_type": " Workstatio_3",
+      "family": " Workstatio_3"
+    }
+  },
+  {
+    "ELID": 12123770,
+    "Point": {
+      "X": -61211.9094,
+      "Y": 28694.7032,
+      "Z": 61785.0
+    },
+    "Rotation": 282.143165027,
+    "Type": {
+      "family_type": " Workstatio_3",
+      "family": " Workstatio_3"
+    }
+  },
+  {
+    "ELID": 12123771,
+    "Point": {
+      "X": -61533.4567,
+      "Y": 30159.8466,
+      "Z": 61785.0
+    },
+    "Rotation": 282.143165027,
+    "Type": {
+      "family_type": " Workstatio_3",
+      "family": " Workstatio_3"
+    }
+  },
+  {
+    "ELID": 12123772,
+    "Point": {
+      "X": -61508.6362,
+      "Y": 30073.7404,
+      "Z": 61785.0
+    },
+    "Rotation": 102.143165027,
+    "Type": {
+      "family_type": " Workstatio_3",
+      "family": " Workstatio_3"
+    }
+  },
+  {
+    "ELID": 12123773,
+    "Point": {
+      "X": -61632.1053,
+      "Y": 30860.0623,
+      "Z": 61785.0
+    },
+    "Rotation": 192.143165027,
+    "Type": {
+      "family_type": " Workstatio_3",
+      "family": " Workstatio_3"
+    }
+  },
+  {
+    "ELID": 12123774,
+    "Point": {
+      "X": -62055.8061,
+      "Y": 29234.5642,
+      "Z": 61785.0
+    },
+    "Rotation": 192.143165027,
+    "Type": {
+      "family_type": " Workstatio_3",
+      "family": " Workstatio_3"
+    }
+  },
+  {
+    "ELID": 12124023,
+    "Point": {
+      "X": -22645.367,
+      "Y": 2622.7996,
+      "Z": 61785.0
+    },
+    "Rotation": 180.0,
+    "Type": {
+      "family_type": " Workstatio_3",
+      "family": " Workstatio_3"
+    }
+  },
+  {
+    "ELID": 12124024,
+    "Point": {
+      "X": -24145.367,
+      "Y": 2625.8757,
+      "Z": 61785.0
+    },
+    "Rotation": 180.0,
+    "Type": {
+      "family_type": " Workstatio_3",
+      "family": " Workstatio_3"
+    }
+  },
+  {
+    "ELID": 12124025,
+    "Point": {
+      "X": -24234.7677,
+      "Y": 2622.7996,
+      "Z": 61785.0
+    },
+    "Rotation": 360.0,
+    "Type": {
+      "family_type": " Workstatio_3",
+      "family": " Workstatio_3"
+    }
+  },
+  {
+    "ELID": 12124026,
+    "Point": {
+      "X": -23437.0673,
+      "Y": 3417.4999,
+      "Z": 61785.0
+    },
+    "Rotation": 270.0,
+    "Type": {
+      "family_type": " Workstatio_3",
+      "family": " Workstatio_3"
+    }
+  },
+  {
+    "ELID": 12124027,
+    "Point": {
+      "X": -23437.0673,
+      "Y": 4917.4999,
+      "Z": 61785.0
+    },
+    "Rotation": 270.0,
+    "Type": {
+      "family_type": " Workstatio_3",
+      "family": " Workstatio_3"
+    }
+  },
+  {
+    "ELID": 12124028,
+    "Point": {
+      "X": -23437.0673,
+      "Y": 6417.4999,
+      "Z": 61785.0
+    },
+    "Rotation": 270.0,
+    "Type": {
+      "family_type": " Workstatio_3",
+      "family": " Workstatio_3"
+    }
+  },
+  {
+    "ELID": 12124029,
+    "Point": {
+      "X": -24234.8438,
+      "Y": 5622.7996,
+      "Z": 61785.0
+    },
+    "Rotation": 360.0,
+    "Type": {
+      "family_type": " Workstatio_3",
+      "family": " Workstatio_3"
+    }
+  },
+  {
+    "ELID": 12124030,
+    "Point": {
+      "X": -24145.4432,
+      "Y": 5633.8297,
+      "Z": 61785.0
+    },
+    "Rotation": 180.0,
+    "Type": {
+      "family_type": " Workstatio_3",
+      "family": " Workstatio_3"
+    }
+  },
+  {
+    "ELID": 12124031,
+    "Point": {
+      "X": -25230.0673,
+      "Y": 2612.7996,
+      "Z": 61785.0
+    },
+    "Rotation": 180.0,
+    "Type": {
+      "family_type": " NS1",
+      "family": " New Furniture_Storage Caddy_NS1"
+    }
+  },
+  {
+    "ELID": 12124032,
+    "Point": {
+      "X": -25230.0673,
+      "Y": 2612.7996,
+      "Z": 61785.0
+    },
+    "Rotation": 180.0,
+    "Type": {
+      "family_type": " NS1",
+      "family": " New Furniture_Storage Caddy_NS1"
+    }
+  },
+  {
+    "ELID": 12124325,
+    "Point": {
+      "X": -16431.7677,
+      "Y": 5464.0034,
+      "Z": 61785.0
+    },
+    "Rotation": 360.0,
+    "Type": {
+      "family_type": " Workstatio_3",
+      "family": " Workstatio_3"
+    }
+  },
+  {
+    "ELID": 12124326,
+    "Point": {
+      "X": -16431.7677,
+      "Y": 5464.0034,
+      "Z": 61785.0
+    },
+    "Rotation": 360.0,
+    "Type": {
+      "family_type": " Workstatio_3",
+      "family": " Workstatio_3"
+    }
+  },
+  {
+    "ELID": 12124327,
+    "Point": {
+      "X": -17137.0673,
+      "Y": 4758.7038,
+      "Z": 61785.0
+    },
+    "Rotation": 270.0,
+    "Type": {
+      "family_type": " Workstatio_3",
+      "family": " Workstatio_3"
+    }
+  },
+  {
+    "ELID": 12124328,
+    "Point": {
+      "X": -17931.7677,
+      "Y": 5464.0034,
+      "Z": 61785.0
+    },
+    "Rotation": 360.0,
+    "Type": {
+      "family_type": " Workstatio_3",
+      "family": " Workstatio_3"
+    }
+  },
+  {
+    "ELID": 12124329,
+    "Point": {
+      "X": -19431.7677,
+      "Y": 5464.0034,
+      "Z": 61785.0
+    },
+    "Rotation": 360.0,
+    "Type": {
+      "family_type": " Workstatio_3",
+      "family": " Workstatio_3"
+    }
+  },
+  {
+    "ELID": 12124330,
+    "Point": {
+      "X": -20137.0673,
+      "Y": 4758.7038,
+      "Z": 61785.0
+    },
+    "Rotation": 270.0,
+    "Type": {
+      "family_type": " Workstatio_3",
+      "family": " Workstatio_3"
+    }
+  },
+  {
+    "ELID": 12124331,
+    "Point": {
+      "X": -20137.0673,
+      "Y": 4669.3031,
+      "Z": 61785.0
+    },
+    "Rotation": 90.0,
+    "Type": {
+      "family_type": " Workstatio_3",
+      "family": " Workstatio_3"
+    }
+  },
+  {
+    "ELID": 12124332,
+    "Point": {
+      "X": -20137.0673,
+      "Y": 6258.7038,
+      "Z": 61785.0
+    },
+    "Rotation": 270.0,
+    "Type": {
+      "family_type": " Workstatio_3",
+      "family": " Workstatio_3"
+    }
+  },
+  {
+    "ELID": 12124450,
+    "Point": {
+      "X": -17635.367,
+      "Y": 12073.056,
+      "Z": 61785.0
+    },
+    "Rotation": 270.0,
+    "Type": {
+      "family_type": " Workstatio_3",
+      "family": " Workstatio_3"
+    }
+  },
+  {
+    "ELID": 12124451,
+    "Point": {
+      "X": -18430.0673,
+      "Y": 11278.3557,
+      "Z": 61785.0
+    },
+    "Rotation": 360.0,
+    "Type": {
+      "family_type": " Workstatio_3",
+      "family": " Workstatio_3"
+    }
+  },
+  {
+    "ELID": 12124452,
+    "Point": {
+      "X": -17635.367,
+      "Y": 12073.056,
+      "Z": 61785.0
+    },
+    "Rotation": 270.0,
+    "Type": {
+      "family_type": " Workstatio_3",
+      "family": " Workstatio_3"
+    }
+  },
+  {
+    "ELID": 12124455,
+    "Point": {
+      "X": -19840.6667,
+      "Y": 11278.3557,
+      "Z": 61785.0
+    },
+    "Rotation": 180.0,
+    "Type": {
+      "family_type": " Workstatio_3",
+      "family": " Workstatio_3"
+    }
+  },
+  {
+    "ELID": 12124462,
+    "Point": {
+      "X": -16930.0673,
+      "Y": 11278.3557,
+      "Z": 61785.0
+    },
+    "Rotation": 360.0,
+    "Type": {
+      "family_type": " Workstatio_3",
+      "family": " Workstatio_3"
+    }
+  },
+  {
+    "ELID": 12124835,
+    "Point": {
+      "X": -22767.5829,
+      "Y": 10633.5187,
+      "Z": 61785.0
+    },
+    "Rotation": 340.0,
+    "Type": {
+      "family_type": " Workstatio_3",
+      "family": " Workstatio_3"
+    }
+  },
+  {
+    "ELID": 12124836,
+    "Point": {
+      "X": -22767.5829,
+      "Y": 10633.5187,
+      "Z": 61785.0
+    },
+    "Rotation": 340.0,
+    "Type": {
+      "family_type": " Workstatio_3",
+      "family": " Workstatio_3"
+    }
+  },
+  {
+    "ELID": 12124911,
+    "Point": {
+      "X": -24177.1218,
+      "Y": 11146.5489,
+      "Z": 61785.0
+    },
+    "Rotation": 340.0,
+    "Type": {
+      "family_type": " Workstatio_3",
+      "family": " Workstatio_3"
+    }
+  },
+  {
+    "ELID": 12124912,
+    "Point": {
+      "X": -24177.1218,
+      "Y": 11146.5489,
+      "Z": 61785.0
+    },
+    "Rotation": 340.0,
+    "Type": {
+      "family_type": " Workstatio_3",
+      "family": " Workstatio_3"
+    }
+  },
+  {
+    "ELID": 12125100,
+    "Point": {
+      "X": -17643.2163,
+      "Y": 13078.3557,
+      "Z": 61785.0
+    },
+    "Rotation": 90.0,
+    "Type": {
+      "family_type": " NS1",
+      "family": " New Furniture_Storage Caddy_NS1"
+    }
+  },
+  {
+    "ELID": 12125101,
+    "Point": {
+      "X": -17643.2163,
+      "Y": 13078.3557,
+      "Z": 61785.0
+    },
+    "Rotation": 90.0,
+    "Type": {
+      "family_type": " NS1",
+      "family": " New Furniture_Storage Caddy_NS1"
+    }
+  },
+  {
+    "ELID": 12125180,
+    "Point": {
+      "X": -18165.367,
+      "Y": 8895.8362,
+      "Z": 61785.0
+    },
+    "Rotation": 270.0,
+    "Type": {
+      "family_type": " NS1",
+      "family": " New Furniture_Storage Caddy_NS1"
+    }
+  },
+  {
+    "ELID": 12125228,
+    "Point": {
+      "X": -20137.0673,
+      "Y": 3664.0034,
+      "Z": 61785.0
+    },
+    "Rotation": 90.0,
+    "Type": {
+      "family_type": " NS1",
+      "family": " New Furniture_Storage Caddy_NS1"
+    }
+  },
+  {
+    "ELID": 12125325,
+    "Point": {
+      "X": -54924.7484,
+      "Y": 28100.8634,
+      "Z": 61785.0
+    },
+    "Rotation": 180.0,
+    "Type": {
+      "family_type": " NS1",
+      "family": " New Furniture_Storage Caddy_NS1"
+    }
+  },
+  {
+    "ELID": 12125955,
+    "Point": {
+      "X": -11958.7483,
+      "Y": 38709.7242,
+      "Z": 61785.0
+    },
+    "Rotation": 2.16933318275E-13,
+    "Type": {
+      "family_type": " Workstatio_3",
+      "family": " Workstatio_3"
+    }
+  }
+]
